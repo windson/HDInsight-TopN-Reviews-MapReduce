@@ -61,7 +61,7 @@ The command sends various arguemnts to hadoop-streaming.jar file with yarn as in
 
 -mapper with the name of the executable of mapper process. 
 
--reducer takes the name of the executable of reducer process. Note that here we are also passing integer arguemnt 3 to get top 3 Products in every category
+-reducer takes the name of the executable of reducer process. Note that here we are also passing integer arguemnt 3 to get top 3 Products in every category. If not argument passed then default N value will be taken as 3
 
 -input is the location of the data to be processed.
 
