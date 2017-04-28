@@ -32,7 +32,7 @@ We will be finding the top-N products in each category with the
 highest weighted ratings. (For the programming part, N should be user given. In output folder the top-3 from each category are reported.)
 To calculate the weighted ratings for a product, first calculate the weighted rating for each review of given product using the formula:
 
-weighted_review_rating = ((1+upvotes)*rating + downvotes*(6 - rating))/(1+total_votes)
+	weighted_review_rating = ((1+upvotes)*rating + downvotes*(6 - rating))/(1+total_votes)
 
 Now perform the average of weighted_review_rating for all reviews of the product to get the weighted_product_rating.
 For each category, output top-N product with highest weighted_product_rating. Output should be in the format: 
@@ -52,7 +52,7 @@ Now upload TopNMapper.exe and TopNReducer.exe to the default azure storage locat
 For beginners follow this <a href="https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-upload-data" target="_blank">link</a> to upload files to HDInsight which provides various interfaces to upload data to an HDInsight cluster.
 
 ## Commands
-yarn jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar -files wasbs:///TopNMapper.exe,wasbs:///TopNReducer.exe -mapper TopNMapper.exe -reducer "TopNReducer.exe 3" -input /reviews/input/reviews.csv -output /reviews/output
+	yarn jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar -files wasbs:///TopNMapper.exe,wasbs:///TopNReducer.exe -mapper TopNMapper.exe -reducer "TopNReducer.exe 3" -input /reviews/input/reviews.csv -output /reviews/output
 
 ### Details of Command
 The command sends various arguemnts to hadoop-streaming.jar file with yarn as interface that processes the map reduce streaming job.
