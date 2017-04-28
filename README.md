@@ -46,7 +46,7 @@ Now, category and title attributes are present in Metadata.csv while votes and r
 
 Spinup the HDInsight Cluster on Azure You can check for reference <a href="https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters" target="_blank">here</a>. I have created this cluster on Linux VM. Choose Azure Storage as Default Storage.
 
-Compile and build the projects in TopNReviews.sln and (in either release or debug mode but I prefer release mode for production purposes).
+Compile and build the projects in TopNProducts.sln and (in either release or debug mode but I prefer release mode for production purposes).
 
 Now upload TopNMapper.exe and TopNReducer.exe to the default azure storage location configured with HDInsight using the Server Explorer. Also upload Reviews.csv file to directory of your choice. For time being I upload it to /reviews/input/Reviews.csv
 For beginners follow this <a href="https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-upload-data" target="_blank">link</a> to upload files to HDInsight which provides various interfaces to upload data to an HDInsight cluster.
