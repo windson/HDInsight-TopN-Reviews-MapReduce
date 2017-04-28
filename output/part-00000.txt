@@ -1,0 +1,1080 @@
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories']], 0132793040, Kelby Training DVD: Mastering Blend Modes in Adobe Photoshop CS5 By Corey Barker>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories']], 0321732944, Kelby Training DVD: Adobe Photoshop CS5 Crash Course By Matt Kloskowski>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories']], B00005V524, Tripp Lite B114-004-R VGA/SVGA 350MHz Video Splitter - 4 Port>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Remote Controls', u'TV Remote Controls']], B00000J03B, RCA RP7989 AM/FM/CD Stereo Remote Control>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Remote Controls', u'TV Remote Controls']], B00005LEN6, NIKON MC-20 2.6-Foot Remote Trigger Release with Timer>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Remote Controls', u'TV Remote Controls']], B00005LLPA, Canon Wireless Remote Controller RC5>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'Vehicle GPS', u'Trucking GPS']], B0000560PY, Magellan GPS Companion for Palm V/Vx>,3.39819902319902>
+<<[[u'Electronics', u'GPS & Navigation', u'Vehicle GPS', u'Trucking GPS']], 0528881469, Rand McNally 528881469 7-inch Intelliroute TND 700 Truck GPS>,2.58816449960951>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphones']], B00004TZJZ, Panasonic RPHS35A Basic Super Lightweight Headphones>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphones']], B00004Z5OW, Koss HD33 Headphones (White)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphones']], B000056SJX, Philips HP625 Full-Size Stereophone>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories']], 0594033934, Barnes &amp; Noble B505360439 Wren Quote Cover>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories']], B00000JSGC, Casio Cassiopeia Replacement AD-C50200U AC Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories']], B00004Z8HN, Kingston 64MB Dataflash Ata PC Card For Digital Cameras and Pda S>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Power Adapters']], 1616813822, Sonas Earphones in Asphalt>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Power Adapters']], 1616873973, Nook Simple Touch Ac Adapter and USB Charging Cable>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Power Adapters']], 0594481902, Barnes &amp; Noble OV/HB Universal Power Kit for Nook HD &amp; HD+>,4.51282051282051>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Skins']], 0594482127, NOOK HD 7 inch Protective 360 Stand Cover Black>,4>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Skins']], 0594017580, Jonathan Adler Punctuation Cover in Black>,3>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Bundles']], 0594450705, Nook Vara Stylus 2-in-1>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Bundles']], 0594033896, Nook Color Clear Screen Protector Kit 2-Pack>,4.25>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Covers']], 0594287995, Kate Spade Rain or Shine Magazine Cover for Nook Simple Touch>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Covers']], 0594549558, Barnes &amp; Noble Jonathan Adler Book Reader Cover Hd - Elephant (9Bn50329)- Barnes And Noble>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Covers']], 1615598790, Madison Trifold Cover in Crimson>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Docking Stations']], 0594296420, Barnes &amp; Noble NOOK Simple Touch Wall Adapter BNRP58501>,4.66666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Docking Stations']], B00005Y3YA, Sony PEGA-UC700 USB Cradle for Clie PEG-N Series>,4.33333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Docking Stations']], B00004X084, Creative Labs Nomad II Docking Station>,4.07936507936508>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Chargers & Adapters']], 0594451647, Barnes &amp; Noble HDTV Adapter Kit for NOOK HD and NOOK HD+>,4.28571428571429>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Chargers & Adapters']], B00004W4E8, Glenayre @ctiveLink Wireless Stand Alone Messaging Springboard Module>,3.5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Screen Protectors']], 0594477670, Barnes &amp; Noble NOOK Color &amp; Tablet Anti-Glare Screen Protector Film Kit>,4.66666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories']], 0594511488, Nook Vara Stylus: Red>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories']], 6185553570, Trimble TDS Yuma Tablet Spare Stylus Pen Tool>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories']], 9864799916, Samsung Galaxy Note 10.1 2014 Edition USB MicroUSB Connector - Retail Packaging - Black>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Bundles']], 0594514789, Nook Vara Stylus: Pink>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components']], B000060K55, HP Q1607A Carrying Case for PhotoSmart 145, 245, 130, and 230 Printers>,4.77777777777778>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components']], B0000514TQ, Cisco WIC-2A/S 2-Port Serial Wan Interface Card>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components']], B0000514R8, Cisco WIC-1T 1-Port Serial Wan Interface Card>,4.33333333333333>
+<<[[u'Electronics', u'GPS & Navigation', u'Vehicle GPS']], 8477599297, Zoomdog Z5 Portable GPS Navigation with Car Mount (5-inch)>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'Vehicle GPS']], B00000J0KX, Magellan MAP 410 2.5-Inch Portable GPS Navigator>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'Vehicle GPS']], B000059H0P, Brunton Multi-Navigator MNS GPS with Neoprenerying Case>,4.42098765432099>
+<<[[u'Electronics', u'GPS & Navigation', u'Sports & Handheld GPS', u'Handheld GPS Units']], 9982120808, Professional Kingston MicroSDHC 4GB (4 Gigabyte) Card for LG ETREX VISTA HCX Phone with custom formatting and Standard SD Adapter. (SDHC Class 4 Certified)>,4.85714285714286>
+<<[[u'Electronics', u'GPS & Navigation', u'Sports & Handheld GPS', u'Handheld GPS Units']], B00003XAKQ, Garmin GPS 12MAP Waterproof Hiking GPS>,4.66306451612903>
+<<[[u'Electronics', u'GPS & Navigation', u'Sports & Handheld GPS', u'Handheld GPS Units']], B00005B8M0, Garmin GPS 76 Handheld GPS Navigator>,4.59389933411672>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories']], 094339676X, &quot;The Arp Atlas of Peculiar Galaxies&quot;, Hardcover Book by Kanipe/Webb>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories']], B0000665V7, Celestron Vibration Suppression Pads>,4.22118171683389>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories']], B00004VVA4, Meade 07366 No.64ST 35-Millimeter SLR Camera T-Adapter for ETX-60, ETX-70 and ETX-80 Series Telescopes (Black)>,4.22113768584357>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Lens Cleaners']], B00005UQHY, Recoton 62069 PC Accessories Audio CD-ROM Laser Lens Cleaner (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Lens Cleaners']], B00000J1QK, Allsop CD Laser-Lens Cleaner (Discontinued by Manufacturer)>,4.16163160317427>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Lens Cleaners']], B000001OMA, Maxell CD345 CD Laser Lens Cleaner (Gold) (Discontinued by Manufacturer)>,4.13862871135598>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Speaker Cables']], B00002N7K7, Leviton X3301-50C 50-Foot 18/2 AWG Speaker Wire>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Speaker Cables']], B00003CWF4, Monster Cable S16-50 Monster Standard Speaker Cable 16 Gauge (50 ft.) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Speaker Cables']], B00003CWF9, Monster Cable SFLM GP-30 SuperFlat Mini Navajo White Easy-to-Hide Speaker Cable 30 ft. pc. with 4 prs. pins>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Ceiling & Wall Mounts']], B00005T3AP, Vantage Point PTW Series W20-B Wall Mount for 19&quot; to 21&quot; TVs>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Ceiling & Wall Mounts']], B00005T3BK, Vantage Point Wall mount for 13&quot;-17&quot; TV. White (Discontinued by Manufacturer)>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Ceiling & Wall Mounts']], 0972683275, VideoSecu 24&quot; Long Arm TV Wall Mount Low Profile Full Motion Cantilever Swing &amp; Tilt wall bracket for most 22&quot; to 55&quot; LED LCD TV Monitor Flat Panel Screen VESA 200x200 400x400 up to 600x400mm - Articulating Arm Extend up to 24&quot; MAH>,4.4626065304218>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camera Cases']], 7514900713, Nest Athena Professional SLR Camera Shoulder Bag (Black)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camera Cases']], B00004TLPE, Case Logic CPS40 Koskin Compact Point and Shoot Camera Bag>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camera Cases']], B00004TLPG, Case Logic CPS50 Koskin Compact Point and Shoot Camera Bag>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories']], 0986987662, GPS Map of Africa>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories']], B000050FZD, Garmin 32MB Memory Cartridge for Street Pilot or eMap>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories']], B00005R0A0, Brunton MNS Instructional Video>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Video Projector Accessories', u'Lamps']], 2724270592, SONY LMPH200 RPLMNT LAMP FOR VPLVW50&amp;VW60>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Video Projector Accessories', u'Lamps']], 6162122646, 74 75 76 77 78 Toyota Hilux Rn20 Rn25 12r Mk2 Pickup Tail Lamp Light Len (Lh+rh)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Video Projector Accessories', u'Lamps']], B00005QCU1, Ott-Lite 13 VisionSaver Milynda Lamp>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Cases & Sleeves', u'Cases']], 1039869017, PU Leather 360 Degree Rotating Stand Case Cover Protector For Mini iPad>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Cases & Sleeves', u'Cases']], 1604550945, Green Ipad Mini Leather Case With Stand &amp; Bluetooth Wireless Keyboard + NEW Easy Sync feature Easy Sync Brand>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Cases & Sleeves', u'Cases']], 1610130804, Cute Hello Kitty Leather Flip Case For Ipad Mini 248G>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cases']], B00004RBR2, RCA Removable Belt Clip for RCA Lyra>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cases']], B00004YMGL, Rio Travel Case>,4.44444444444444>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cases']], B00004TZG8, Case Logic MP3 Digital Music Player Case (Blue/Silver)>,4.40952380952381>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Memory']], B00001U0D6, PNY P-APMG3WS-64-CS 64MB 144 Pin SDRAM DIMM PC-100 Memory for iMac>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Memory']], B0000365QN, Viking EDO8326 32MB EDO 60ns SIMM Memory>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Memory']], B00004TE2Z, Viking C09082 128MB SDRAM DIMM Memory, Compaq Part# 309082-001>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Mice']], B00000JBUZ, Logitech First Mouse>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Mice']], B00000JDD4, Micro Innovations PD49W Micro Point III Button Combo Mouse>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Mice']], B00000JDDF, Logitech First Mouse 3-Button PS/2>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboards']], B00000JDD5, Micro Innovations 2000 - Keypad - AT, PS/2 - 104 keys - white - English - retail>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboards']], B00004VUFC, Logitech Internet Keyboard>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboards']], B00004XPJC, IBM W95 Rapid Response Keyboard (Pearl)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters']], B00000J1TW, Belkin F4A611 Serial to PS/2 Mouse Adapter; DB9 Male to MiniDin6 Male>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters']], B00001XDKN, MAC VM-ALL Adapter for ViewSonic Monitors>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters']], B000050ZZG, StarTech.com MXT101HQ_200 200-Feet Coax High Resolution VGA Monitor Extension Cable - HD15 M/F>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Tablets']], 1400698987, Nook HD 7&quot; 8GB Tablet>,4.18970661726644>
+<<[[u'Electronics', u'Computers & Accessories', u'Tablets']], 1400501520, NOOK HD 7&quot; 16GB Tablet>,4.12700503898967>
+<<[[u'Electronics', u'Computers & Accessories', u'Tablets']], B0000516AT, Calcomp 34360 Drawing Board Iii 24X36 Tablet PC/IBM .010 Acc W/ Cursor>,4>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'eBook Readers']], B000050GDN, Franklin eBookman EAC-1 AC Power Adapter>,5>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'eBook Readers']], 140053271X, Barnes &amp; Noble Nook Simple Touch eBook Reader (Wi-Fi Only)>,4.02508577485532>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'eBook Readers']], B000050GDM, Franklin eBookman EUP-1 USB Cable>,2>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Messenger Bags']], B0000511MM, Port Inc. 2.1 Series 1680 Commuter Carry Case with Ergon Handle (Black)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Messenger Bags']], 1400666937, Barnes Noble Canvas Messenger Bag, Slate Grey-colored canvas with black polyester trim>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Messenger Bags']], 6011578497, Leather Man's Business Laptop Briefcase Style 2 Messenger Bag - Black>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'FM Transmitters']], 1427695024, Original GoBible - New International Version + Accessory Bundle (REFURBISHED)>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Screen Protectors']], B00005A8SO, CompanionLink Palm V PDA Screen Protector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Screen Protectors']], B00005A8TR, CompanionLink Palm M100 Screen Protector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Screen Protectors']], B000063KE9, iConcepts Screen Protectors for HP Jornada  (12 Pack)>,5>
+<<[[u'Electronics', u'Computers & Accessories']], B00005K4NL, 8cm Compact Disc Recordable - 5-pack>,5>
+<<[[u'Electronics', u'Computers & Accessories']], B00005UNA8, Viking T133/512 512MB PC133 SODIMM Memory for Toshiba products>,5>
+<<[[u'Electronics', u'Computers & Accessories']], B000065U17, Adaptec DuoConnect 1923200EU USB/FireWire Combo Adapter - 3 x USB 2.0>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases']], 1593152523, Fullmetal Alchemist Messenger Bag By Mythwear>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases']], 1932836470, LightWedge Large Soft Case for Harry Potter Lumos Book Light, Gryffindor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases']], B00000K4L0, Kensington K62071A Sky Runner (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Television & Video', u'Blu-ray Players & Recorders', u'Blu-ray Players']], 1594243034, Sony NSZ-GT1 Wi-Fi-Enabled 1080p Blu-ray Disc Player Featuring Google TV>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-R Discs']], B00000JFO3, Maxell CD-R 623310 650 MB 74 Minute (1-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-R Discs']], B00001O2ZT, Hewlett Packard C4437A CD-R, 74 Minute, 4x (Single) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-R Discs']], B00004XPW1, Memorex 700MB/80-Minute 24x CD-R Media (10-Pack with Jewel Cases)>,5>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders']], B00005MITN, Panasonic PV-D4741 DVD-VCR Combo>,5>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders']], 1600859453, Fine Homebuilding Magazine Archive 1981-2012 DVD 232 issues just out! Free SH>,4.66666666666667>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders']], B00005AY7P, Panasonic DVD-LV70 Portable DVD Player>,4.53914313402649>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Reading Lights']], 1616874430, Lyra Light in Black for Nook 2nd Edition>,4.33333333333333>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Reading Lights']], 1932836306, 3 Led Compact Book Light (Plum)>,4.25>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Reading Lights']], 1616874457, Barnes &amp; Noble Nook NK01110018 Lyra e-Reader Light>,4.03703703703704>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Speakers']], B00000JBPI, Labtec LCS1030 Studio Reference Series Speakers>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Speakers']], B00000JBPK, Labtec LCS2414REGN Audio F/X Series Speaker>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Speakers']], B00000JDH6, Advent AV390PL 3-Piece Computer Speakers>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories']], 1685560156, TaoTronics SK-BH-M18 Hi-Fi Stereo Bluetooth Wireless Headset White US Version>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories']], B000066S2B, Panasonic SV-SD05 e-wear SD Audio Player Headset>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Storage Wallets']], B00004TZE8, CDR24 Nylon CD-ROM Wallet (24-Capacity)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Storage Wallets']], B00004TZF1, CDY48 CD Wallet (48-Capacity, Blue)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Storage Wallets']], B00004Z67Q, Fellowes 96 CD Album Faux Leather Black>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Stereo Jack Cables']], B00003CWCC, Monster Cable JM SPPCM X RP-6 Stereo Mini Extension for Multimedia Speakers (6 ft.) (Discontinued by Manufacturer)>,4.76470588235294>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Stereo Jack Cables']], B00005T3G6, RCA Stereo Hook-Up Cable (AH211)>,4.6>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Stereo Jack Cables']], B00003CWAG, Monster Cable IP400 2M Interlink Portable 400 MkII Balanced Stereo RCA to 1/8 Mini 2 m. pair (6.56 ft.)>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'3D Glasses']], 1934805912, Portable Fashion Black Frame Clear Lens Nerd Glasses Cool Design>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'3D Glasses']], 9641766775, Zoom3D 3D Entertainment Glasses for All Ages - Black (Universal)>,3.66666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Extension Cords']], B00005T3GD, RCA Stereo Headphone Extension Cord (20 Feet) (AH80) (Discontinued by Manufacturer)>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Extension Cords']], B00004Z0C7, Maxell HP-20 Headphone Extension Cord with Adapters (190399)>,4.14682059994004>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Extension Cords']], 1938401387, 3.5mm Male to Female Audio Stereo Extension Cable Silver Planted>,3>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Neutral Density Filters']], B000063Y70, Sony VFR52K 52mm Neutral Density Filter Kit for MVCCD500>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Neutral Density Filters']], B00004ZDBT, Cokin P-Series Neutral Grey ND4 (0.6) Filter>,4.38275058275058>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Neutral Density Filters']], B00004ZC9V, Tiffen 49mm Neutral Density 0.9 Filter>,4.23679412892697>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Connectors & Adapters']], 2059500001, Orange Sources 20Pcs/Pack CCTV BNC RG59 Male Security System Camera COMPRESSION CONNECTOR 5OC>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Connectors & Adapters']], 7204079302, DB9 Female / DB9 Female Molded Gender Changer Adapter>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Connectors & Adapters']], 9985681622, PROFESSIONAL 6 ft Panasonic ToughPad Tablet 1.4 Micro-HDMI to HDMI cable! (Ethernet, 4k, 600Hz Type A to D Connectors)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'USB Flash Drives']], 6423153744, New Style Thin and Light Heart Shape USB Flash Drive with Necklace:8GB(Silver)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'USB Flash Drives']], 7645342153, 8GB Green Crystal Simple Style USB Flash Drive with Necklace>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'USB Flash Drives']], 8805000663, Engravable Blank GI Joe Military Stainless Steel Dog Tag Name Pendant 50 Pcs>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'HDMI Cables']], 3744295478, ADVANCED HIGH SPEED DIGITAL 10 FT HDMI 24k GOLD SEALED CONNECTOR CABLE !>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'HDMI Cables']], 6215140651, OEM MHL 2.0 Samsung Galaxy Note III Smartphone HDMI to Micro USB Smartphone adapter! No additional power needed with MHL 2.0 certified digital conversion chipset. (Adapter is MHL 1.0 backwards compatible)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'HDMI Cables']], 9966263632, PROFESSIONAL 15 ft Amazon Kindle Fire HD Tablet 1.4 Micro-HDMI to HDMI cable! (Ethernet, 4k, 600Hz Type A to D Connectors)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Internal Hard Drives']], B00000JDHF, Maxtor K0188400D 8.4GB EIDE Ultra-DMA/33 Internal>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Internal Hard Drives']], B00004YKN3, IBM MD340/A 340MB Microdrive with Travel Kit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Internal Hard Drives']], B000063V8Q, WD1000BB\| WD 100GB IDE 7200rpm Hard drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Microphones']], B000063ILN, Labtec Verse 704 USB Stand-up Microphone>,4.66666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Microphones']], B00000J4VA, Labtec AM-242 Desk Boom Microphone with Base (Discontinued by Manufacturer)>,4.49282296650718>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Microphones']], B0000665P3, Plantronics Audio 10 PC Microphone (Discontinued by Manufacturer)>,4.42004186289901>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Stands']], 3993854683, OnlineBestDigital - Premium Synthetic PU Luxury Leather Folio / Flip Case Stand Cover Protector Skin Wallet for 7 inch Android Tablet PC - White>,1>
+<<[[u'Electronics', u'Computers & Accessories', u'Video Projectors']], B000056SNB, Proxima Ultralight S520 SVGA Projector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Video Projectors']], B00005A7JD, Epson PowerLite 50c Multimedia Video Projector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Video Projectors']], B00005AVRU, InFocus LP130 Portable LCD Projector>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camera Batteries']], 6000001134, NB-5L 1400mAh Battery for Canon IXUS 980 970 960 950 860 90 IS>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camera Batteries']], 6000007469, KLIC-8000 Charger for Kodak EasyShare Z1012IS Z1085IS>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camera Batteries']], 6000011474, EN-EL12 1500mAh Battery+Charger for Nikon S70 S620 S630 S1000pj>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects']], B00000J1V6, Belkin F3D111-06 Conductor Switchbox Cable (6 Feet); DB25M/M>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects']], B00000J4AU, Allsop Cable Control Set>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects']], B00004Z5VO, Belkin MiniDin6M/MiniDin6F 10ft PS2 Keyboard/Mouse Extension - 10ft>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camera']], 6000007388, KLIC-7004 Battery Charger For Kodak EasyShare V1253>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camera']], B00005RH7M, Minolta Dimage Quest 4 AA Rechargeable Batteries and Charger for Dimage 5, 7, 7i, F100, S304 &amp; S404 Digital Cameras>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camera']], B0000645V5, Sharp Zaurus SL-5500 CE-BC21 Battery Charger>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Background Support Equipment']], 6123015443, Portable Photography Backgroun/Backdrop Stand Kit: 10x6-1/5 ft>,3.25>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mice Accessories', u'Keyboard Skins']], 6175005554, New Rainbow Macbook Keyboard Decal Macbook Sticker Mac Decal>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mice Accessories', u'Keyboard Skins']], 7562434166, 1x Colorful Silicone Keyboard Protector Skin Cover for IBM Lenovo ThinkPad X220 X220t X220s X220i T410 T410i T410si T420 T420s T420i T510 T510i T520 T520i W510 W520 (You Must read &quot;Product Description&quot; Part to avoid buying wrongly!!!)>,3.85>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mice Accessories', u'Keyboard Skins']], B00004Z64Y, Fellowes Antimicrobial Custom Keyguard Cover Kit (99680)>,3.68033017673571>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'Radio Antennas']], B00005QXXF, Jensen TV910 Amplified Indoor Antenna>,4.12671394799054>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'Radio Antennas']], B00005T3KI, Stylish VHF/UHF/FM with Universal Dipoles>,4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'Radio Antennas']], B00000J1RN, Recoton TV575 Indoor TV Antenna (Discontinued by Manufacturer)>,3.8494623655914>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters', u'USB-to-USB Adapters']], 6209840957, Blue USB 3.0 A Male to A Female M/F 90 Degree Angled Adapter Plug Converter>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Sleeves & Slipcases']], B00005T3H5, Targus Sport Backpack Case Designed for 15.4 Inch Notebooks TSB212 (Black with Grey Accents)>,4.34090574419777>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Sleeves & Slipcases']], B00000J3UK, Targus Traditional Notepac Plus Case for 15.4 Inch Laptops CNP1/ONP1 (Black)>,4.25>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Sleeves & Slipcases']], B000051SFJ, Case Logic NCLE2 Large Neoprene Computer Sleeve>,4.06790297824781>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'AC Adapters']], B00005QZ0E, Jensen AD300 Universal Adapter>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'AC Adapters']], B00001ZUGS, Sony ACE60HG AC Adaptor (Discontinued by Manufacturer)>,4.2>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'AC Adapters']], 9888002198, Universial Travel AC Wall Adapter USB Charger>,4.02832810047096>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Internal Solid State Drives']], 7256000073, PM841 mSATA (128GB)>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Motherboards']], B000050ZR2, Tyan S1854 Motherboard>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Motherboards']], 7500653883, ECS PT800CE-A Socket 478 Motherboard Prescott Compatible>,4.33333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Motherboards']], B00004SX3Z, NETGEAR DS116 16 Port Hub (10/100 Mbps)>,4>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Chargers & Cables']], 9984983501, Premium Accessory Power Pack for your Garmin Nuvi 765T GPS ! Kit includes : (1) A Days Tech Charging USB Data Cable, (1) Travel AC/Wall Charger with Folding Blades, (1) Car Charger DC/Vehicle with rapid charger &amp; fuse protection.>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Chargers & Cables']], 9985698134, Garmin 3790T (Nuvi) Standard Red LED Wall / AC / Home Charger!>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Chargers & Cables']], 998940660X, Professional TomTom XXL 540 S GPS BLUE LED Car Charger with digital rapid and slow charge features! (Black / 1A)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Chargers', u'Wall Chargers']], 9861023909, Apple iPod and iPhone 3G USB Power Adapter (2 Pack)>,2.64102564102564>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Chargers', u'Wall Chargers']], 7798902724, Universal Compact fortable WHITE or Black Travel charger USB Wall charging adapter for mp3 player, smartphone, cell phone, camera, GPS, PDA (HP IPAQ &amp; PALM TREO 700w 700p 700wx 700v 680 750v 650 T5 TX E2 LifeDrive) APPLE iPhone iTouch IPOD mini photo nano shuffle video classic &amp; 2nd generation (2nd Gen only for white one), etc>,2.41025641025641>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Video Converters']], B00004Y2ZJ, Monster Cable CVSI-1 Entech Component Video System Integrator (Pro-Grade Component-, Composite-, and S-Video Converter) (Discontinued by Manufacturer)>,3.66666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Video Converters']], B00005120M, Aitech Pocket Scan Converter PSC-2000 PC-To-TV 1024 X 768 16.7M Colors>,3.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Video Converters']], B00005NDSL, Sima SED-CM Video CopyMaster (Discontinued by Manufacturer)>,3.18269230769231>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'USB Network Adapters']], 7800997065, Airlink101 5077 11N Mini USB Adapter for PC and MAC, Wireless 802.11n 150Mbps, AWLL5077>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'USB Network Adapters']], B00005124D, Farallon PN559-1 EtherMac IPrint Adapter Print Server>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'USB Network Adapters']], B00005134G, Y-mouse Adapter for USB>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Batteries']], 7805844267, 2200 mAh Dekcell PDA Battery for Compaq iPaq 3800, 3850, 3870, 3900, PN: 2638...>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Batteries']], B00005MO5L, Sumdex Universal Size Padded Palm Organizer Wallet for Pocket PC (Graphite)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Batteries']], 7810294245, Dekcell PDA Battery for Compaq iPaq 3100, 3135, 3500, 3600, 3630, 3635, 3650,...>,4.6>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management']], B00004W3ZQ, Legrand C210 Cord Mate II Kit>,4.33643311712017>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management']], 7879879862, Blackberry Pearl 8100 Charging USB 2.0 data sync cable 8700 8800 8830>,2>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'USB Fans']], 7884139057, Flexible Neck Black Three Blade Computer USB Desk Fan>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Adapters']], B00004TRZC, Casio QV-3000 Digital Camera AC Adapter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Adapters']], B00004WCGH, Canon Professional Camera Strap (Black)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Adapters']], B00004Z5C8, Kodak Lens Pen Cleaning Tool for All Cameras>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Readers']], B00005U23M, SanDisk ImageMate External SmartMedia Drive (SDDR-55-01)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Readers']], B0000633DW, SimpleTech Secure Digital Reader (STI-UMSD100)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Readers']], B00005JGFN, Delkin DDREADER-12 USB Card Reader for CF Type I and II>,4.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Bag & Case Accessories']], 957725280X, New iPad Mini Hard Shell Protective Back Cover Sleeve Case (2 Pack) (White)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Bag & Case Accessories']], B00004TZD9, Lowepro Z20 Pouch (Royal Blue)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Bag & Case Accessories']], B00004U4PY, Samsonite Worldproof 1.3 Khaki/Black Compact Camera Pouch With Pocket>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Batteries']], B000050FZE, Hewlett Packard Jornada 720 Extended Battery>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Batteries']], B00004Y3QX, Monster Cable JP MNPC X RP-6 Monitor Extension for PC (6 feet)>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Batteries']], B00004Z7CQ, APC RBC5 Replacement Battery Cartridge #5>,3.94567901234568>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Backgrounds']], 8805001716, 20x10 Ft Blue Photography Background Muslin Photo Studio Backdrop>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'Lighting Controls & Modifiers', u'Soft Boxes']], 8805002097, Photography Studio Lighting Continuous 18 Lights Kit Large Soft Box Photo Light>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories'], [u'Electronics', u'eBook Readers & Accessories', u'Covers']], 8862935293, NULL>,3.9590060218682>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories'], [u'Electronics', u'eBook Readers & Accessories', u'Covers'], [u'Electronics', u'eBook Readers & Accessories', u'Sleeves']], 8862935307, NULL>,3.77293502293502>
+<<[[u'Electronics', u'eBook Readers & Accessories', u'Stands']], 8866133019, Moleskine Digital Shells 9788866133018 Laptop Bag>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Cases & Sleeves']], B00004S7T4, RhinoSkin Titanium Slider Hardcase for Palm III Series PDA>,4.02485207100592>
+<<[[u'Electronics', u'Computers & Accessories', u'Touch Screen Tablet Accessories', u'Cases & Sleeves']], 8867321587, Moleskine Slim Digital Cover for iPad Mini/Tablet with Volant Notebook - Black>,3>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Briefcases']], B00005Q70B, Sumdex Notebrief Computer Case>,4.33333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Briefcases']], B00004Z7Y5, Targus OUD1 CUD1/OUD1 - Deluxe Universal Notebook Case [Koskin]>,4.07619047619048>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Briefcases']], B00000J3UH, Targus Traditional Leather Case for 15.4 Inch Laptops CLN5 (Black)>,4.01578461064627>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Vehicle Mounts']], B00000J0GJ, Magellan Vehicle Mounting Bracket>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Vehicle Mounts']], B00005B8MB, Garmin Swivel Mounting Bracket for Garmin GPS 48 and 12 Models>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Vehicle Mounts']], B00005QSQR, Magellan Meridian Swivel Mount Bracket>,4.40740740740741>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mouse Combos']], 8972756199, ZALMAN Multimedia Keyboard ZM-K350M/8 Function Key/USB Type>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mouse Combos']], B00000JBSI, Logitech Cordless Desktop Keyboard/Mouse>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Keyboard & Mouse Combos']], B0000659A4, Logitech Cordless Freedom (USB/PS2)>,5>
+<<[[u'Electronics', u'Television & Video', u'Televisions', u'LCD TVs']], B0000632FR, Samsung LTM-1555 15-Inch LCD Flat-Panel HDTV-Ready TV>,5>
+<<[[u'Electronics', u'Television & Video', u'Televisions', u'LCD TVs']], B00000J3RA, Toshiba CZ27V51 27&quot; TV>,4.33333333333333>
+<<[[u'Electronics', u'Television & Video', u'Televisions', u'LCD TVs']], 8987029395, SANYO 32&quot; LED 720p 60Hz HDTV \| DP32D53>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Safety & Security']], 8991643515, Ez Pass Holder (Why ruin your car window!?) works for Both Old and New Tag!!>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Safety & Security']], 9747383756, New Chevrolet Trailblazer 12 13 Suv Chrome Tail Rear Bumper Protect Cover Trim>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Safety & Security']], 9743232656, Isuzu Pickup Truck Pup Rodeo Kbz Kb21 26 Luv 83 84 85 86 87 88 Tail Lamp Light>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Backpacks']], 9178910897, IKEA - UPPT&Auml;CKA Backpack, dark gray, yellow-orange>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Backpacks']], B0000510GP, Micro Solutions PC Card Ii Backpack Upg Kit For Parallel Port CDRom/RW/Hard Dr.>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Backpacks']], B00000K3SR, Amazon.com Back Office>,4.525>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'DVD Drives']], 9573212943, cBear Purple Acer Aspire One USB External DVD RW DVD Burner - See other Colors>,4.66666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'DVD Drives']], 9573212900, cBear Acer Aspire One USB External DVD/CD-RW Burner (White)>,3.9189611647128>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'DVD Drives']], 9573212897, RED / Pink mini, netbook, Laptop External Lightscribe DVDRW Burner (New)>,3>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives']], 9573212919, External USB DVD/CD>,3.90345739166156>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'CD Drives']], B000056SIE, Sony Spressa CRX1600L/A2 12x8x32 External i.Link CDRW Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'CD Drives']], B00005V63D, Yamaha CRW3200UxZ 24x10x40 External USB 2.0 CD-RW Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'CD Drives']], B00006417Z, I/O Magic DR-CDRW446EU 4x4x6 External USB 1.1 CD-RW Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'Optical Drives', u'Blu-ray Drives']], 9573213850, HP Original External USB Blu-Ray Player DVD&plusmn;R/RW Burner Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal DVD Drives']], B0000512NT, MicroSolutions BackPack 181150 24x Bantam Parallel / PC Card With Attached Cable External CDRom Retail Box>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal DVD Drives']], B00004YM02, Utobia 16X/40X DVD ROM with MPEG2 Kit>,4.8>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal DVD Drives']], B00004YM06, Utobia 12X/40X DVD-ROM with MPEG2 Kit>,4.78947368421053>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters', u'DVI-HDMI Adapters']], 9613007830, OEM MHL 2.0 Samsung Galaxy Tab 3 (MHL 2.0 Enabled Versions Only) HDMI to Micro USB Smartphone adapter! No additional power needed with MHL 2.0 certified digital conversion chipset. (Adapter is MHL 1.0 backwards compatible)>,1>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cases']], 975266119X, Palm Treo 700w Black Magnetflipper Case - No Belt Clip>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cases']], 9752890474, Sena Palm Tungsten T3 Leather Cases>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cases']], 9861769161, Black Dog Paws Snap on Hard Skin Cover Case for Lg Vu Cu920 + Belt Clip>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Keyboards & Styluses']], 9620963016, Nintendo DS Super Mario Stylus Pens - Boo (Version 2)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Keyboards & Styluses']], B00004S7Z7, Platinum Pen Zepher Mini Three Action PDA Stylus (GunMetal)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Keyboards & Styluses']], B00005B6SE, PalmOne Deluxe Keyboard Case (m125, m130, i705 &amp; m500 series)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Players']], B00000J3NF, Sharp MDMS722 Portable Minidisc Player/Recorder>,4.52294492712094>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Players']], B000065V15, Apple iPod 10 GB White M8709LL/A (1st Generation)  (Discontinued by Manufacturer)>,4.34749656028726>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Players']], B00004SDFI, Samsung YP-E64 Yepp MP3 Player>,4.34673051406798>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories']], B00005ICCW, Creative Labs Nomad II &quot;C&quot; Series Accessory Kit>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories']], B000023VW2, Sangean ANT-60 Short Wave Antenna>,3.8520123979459>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories']], 9625993428, Black Mini Microphone for iPhone 3G 3GS iPod touch 1st 2nd 3rd Gen classic Video>,3.47074676024256>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Cases']], B00005NCPR, Garmin GPS Carrying Case (Fits GPS 12, 38, 40, 45XL, II and III)>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Cases']], B00005O7JK, Sony SRF 49 - Personal radio - black>,5>
+<<[[u'Electronics', u'GPS & Navigation', u'GPS System Accessories', u'Cases']], B00000J0IU, Magellan 00-69032-000 Canvas Carrying Case for SporTrak>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Docking Stations']], B00004XOYF, Creative Labs NOMAD II MG 64 MB MP3 Player Silver with Docking Station>,3.35267769025939>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Docking Stations']], 9790826982, JamDock Digital Player Cradle>,3.33333333333333>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Docking Stations']], B00004XOYC, Creative Labs NOMAD II MG 64 MB MP3 Player Blue with Docking Station>,3.24511278195489>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Switches']], B000023VUN, D-Link DSH-8 10/100Mbps Dual Speed SOHO Hub with Switch 8-Port>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Switches']], B00002JUZ7, D-Link DFE-910 10/100 Network-In-A-Box with 5 Port Switch>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Switches']], B00004XRD4, D-Link 10/100 Dual Speed Rack Mount 24 Port Switch>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories']], B00004TYP8, Velbon PH-157 Photographic/Video Tripod Panhead>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories']], B00004ZCO2, Hakuba KST-02-BK Camera Hand Strap (Black)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories']], B00004ZCON, Hakuba Camera Clip with Ball Socket Camera Mount>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Speaker Systems']], B000065UVY, JVC XL-PM30 Personal CD/MP3 Player with 140 Seconds MP3 Anti-Shock Protection>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Speaker Systems']], B00005ABEE, Philips EXP303 eXpanium Personal CD Player with CD-MP3 Playback and Car Kit>,4.64975845410628>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Speaker Systems']], B00005QZ16, Acoustic Research TDS202 TDS Sound Enhancement Sound System (1-Speaker, Silver)>,4.37252525252525>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'SATA Cables']], 988207281X, SATA Harddisk Power Cable for Serial ATA HDD to Power Supply (2 PACK)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'SATA Cables']], B0000511TN, StarTech.com 18-Inch Dual Drive Ultra ATA IDE Hard Drive Cable (IDE66)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'USB Cables']], 9967189371, Professional Garmin 3750LM (Nuvi) Data Charging Cable. True Digital USB 2.0+, high density pure copper core, quad sheilding, up to 35% faster charging! (USB 3.0 Compatible, 480-760Mbit/s Transfers*)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'USB Cables']], 9981711780, Samsung APCBS10UBE Charging USB 2.0 Data Cable for your Phone! This professional grade custom cable outperforms the original!>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'USB Cables']], 9981712515, Samsung SCH-U650 SWAY Charging USB Data Cable for Phone! Access your Ringtones, Phonebook, MP3, Pictures, Images, Videos, and more with your PC and this professional custom cable! SCHU650>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Power Adapters']], 9966519610, PREMIUM USB Adapter Power Kit for your Samsung Galaxy S4 Smartphone! Includes : (1) A Days Tech Charging USB Data Cable, (1) USB Car Charger Adapter (1) USB Folding Blade Wall Charger Adapter.>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Power Adapters']], 996715960X, PREMIUM USB Adapter Power Kit for your Toshiba Excite 10 Smartphone! Includes : (1) A Days Tech Charging USB Data Cable, (1) USB Car Charger Adapter (1) USB Folding Blade Wall Charger Adapter.>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Power Adapters']], 9967463619, Premium Accessory Power Pack for your Sony LT30at Smartphone ! Kit includes : (1) A Days Tech Charging USB Data Cable, (1) Travel AC/Wall Charger with Folding Blades, (1) Car Charger DC/Vehicle with rapid charger &amp; fuse protection.>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories']], 9966301682, Professional Kingston MicroSDHC 32GB (32 Gigabyte) Card for Verizon Wireless Casio C781 Phone with custom formatting and Standard SD Adapter. (SDHC Class 4 Certified)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories']], 9966634975, Professional Ultra SanDisk 32GB MicroSDHC Verizon Wireless Ellipsis 7 card is custom formatted for high speed, lossless recording! Includes Standard SD Adapter. (UHS-1 Class 10 Certified 30MB/sec)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories']], B0000633DT, SimpleTech STI-CF/128RDR 128MB CompactFlash Card &amp; USB FlashLink reader>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SD & SDHC Cards']], 9982128477, Professional Kingston MicroSD 2GB (2 Gigabyte) Card for NOKIA 6133 with custom formatting and SD Adapter. (MicroSDHC SDHC Certified)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SD & SDHC Cards']], 9983030985, Professional Kingston MicroSDHC 8GB (8 Gigabyte) Card for Kyocera SIM CARD K530I (SZR016) Phone with custom formatting and Standard SD Adapter. (SDHC Class 4 Certified)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SD & SDHC Cards']], 9983031515, HTC G1 Phone>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Micro SD Cards']], 9984915441, Professional Kingston MicroSDHC 8GB (8 Gigabyte) Card  with custom formatting and Standard SD Adapter. (SDHC Class 4 Certified)>,1>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Micro SD Cards']], 9984978249, Professional Kingston MicroSDHC 4GB (4 Gigabyte) Card for Samsung Smooth Phone Phone with custom formatting and Standard SD Adapter. (SDHC Class 4 Certified)>,1>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Micro SD Cards']], 9985027914, Plantronics Discovery 975 Phone>,1>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Chargers', u'Charger Kits']], 998499659X, PREMIUM USB Adapter Power Kit for Sony Ericsson W518a Phone! Includes : (1) A Days Tech Charging USB Data Cable, (1) USB Car Charger Adapter (1) USB Folding Blade Wall Charger Adapter.>,3>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Batteries']], 9985698274, Verizon Novatel MiFi 4510L Phone AA battery Powered Emergency Cell Phone Travel Charger / Re-Charger in high grade Brushed Aluminum housing!>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Batteries']], B000056SLK, Kenwood KNB15A 1100 MAH, 7.2 VDC (4/5W) Extended Capacity Nicad Battery>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Batteries']], B00005AY78, Motorola NiMH Rechargeable Battery Upgrade Kit for T6200, T6300, and T6400 Series Radios (56319)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media']], B000000O1Y, TDK SM20 20-Minute High Bias Audio Cassette (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media']], B00005T3BB, TDK 2-Pack 40-Minute VHS-C Tapes (TC40HGL2)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media']], B0000632GZ, Sony Beta Cassette High Grade (Single) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS']], B000000O26, TDK MA110 Metal Biased Metal Alloy 110 Minutes Cassette Tape>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS']], B000000O3P, TDK VHS &quot;Dry&quot; Head Cleaner (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS']], B00000J1EZ, Maxell 202821 Video VHS XRS T120 (Black, 2-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Data Cartridges']], B000000O2A, TDK SA-X 90 Minute Blank Cassette Tape>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Data Cartridges']], B000000O2J, TDK 90-Minute Audio Tapes (6-Pack) (D90S6F) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Data Cartridges']], B000000O3Z, TDK ST160XPSP - Super VHS Tape>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'MiniDV']], B000000O2M, TDK Dynamic D90 (10 pack )>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'MiniDV']], B00000J4J8, Sony 10C90HFC 90 Min HiFi 10 Pack (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'MiniDV']], B00002JVHP, DVC60. Mini DV Video cassettes 60min>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Head Cleaners']], B00000J0E8, RCA AV009W VCR Head Cleaner>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Head Cleaners']], B00000J1QN, Allsop 4-in-1 Video Cleaner (Discontinued by Manufacturer)>,4.83333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Head Cleaners']], B00000J1QT, Allsop 2-in-1 Audio Cleaner (Discontinued by Manufacturer)>,4.4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'Hi-8']], B000000O44, TDK 8mm P6-120 HG High Grade Tape>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'Hi-8']], B000000O48, TDK 120-Minute 8MM Metal Evaporated Tape (E6120HMEL)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'Hi-8']], B00000J4H3, Maxell 281120 XRMP6-120 (2-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Cleaners']], B00004Z5IW, Scotch Disc Cleaner for CD and DVD>,3.9483955368748>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Cleaners']], B00001TPX8, Curtis MC1M Clean Mouse (Discontinued by Manufacturer)>,3.66666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Cleaners']], B00000J1QH, Allsop 51000 CD Radial Cleaner>,3.2>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cassette Player Adapters']], B00005T39Y, Walkman Car Connecting Pack for MD Walkman and CD Walkman (Model# CPA-9C)>,4.01808536894889>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cassette Player Adapters']], B000001OM4, Maxell CD-330 CD-to-Cassette Audio Adapter (190038)>,3.61727957885169>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Cassette Player Adapters']], B000066RW9, Rio 900 192 MB MP3 Player>,2.40939648586707>
+<<[[u'Electronics', u'Computers & Accessories', u'Routers']], B000001OM8, Maxell CD or CD-R Jewel Cases (12-Pack)>,3.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Routers']], B000067OBL, Netvanta 2100 Small Office Vpn Gateway with fw Nat &amp; Router>,1>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Jewel Cases']], B00000JGLU, CD Refill Storage Pages (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Jewel Cases']], B000023VXR, Meade/Laserline MZRSL200 Mediazone CD-ROM Sleeves (100) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Disc Jewel Cases']], B00004Z6GA, Kodak 8752594 CD-R 74 Minute, 12x (Gold, 20-Pack with Jewel Cases)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Color Correction & Compensation Filters']], B00004ZCBO, Tiffen 55mm 80A Filter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Color Correction & Compensation Filters']], B00004ZCCF, Tiffen 55mm 23A Filter (Red)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Color Correction & Compensation Filters']], B00004ZCJW, Tiffen 82mm 15 Filter (Yellow)>,5>
+<<[[u'Electronics', u'Home Audio', u'Radios', u'Shower Radios']], B00000DM9W, Sony ICF-S79V Weather Band Shower Radio (Discontinued by Manufacturer)>,4.60695475275252>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable CD Players']], B00000JYLB, Aiwa XPV50 Portable CD Player with EASS>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable CD Players']], B00000K0HF, Panasonic SLS232C Portable Car CD Player>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable CD Players']], B00001ZT4M, Sony D192CK Discman Portable CD Player with Car Kit>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS-C']], B0000632H4, Sony VHS-C Camcorder Cassettes 30 Minute (5-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS-C']], B00001XE0L, Fujifilm ProTC30 VHS-C (2-Pack) (Discontinued by Manufacturer)>,4.75111111111111>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media', u'VHS-C']], B00000I9HE, Maxell 203020 HGX-GOLD TC-30 Camcorder Video Cassette, 2 Pack>,4.6754130223518>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable & Novelty TVs']], B00000J3WM, Panasonic PV-M1349 13-Inch TV/VCR Combo>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable & Novelty TVs']], B00000JDFV, RCA XL-100 E13208GY 13&quot; TV>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable & Novelty TVs']], B00000K2OZ, Panasonic PV-M949W 9&quot; TV/VCR Combo>,5>
+<<[[u'Electronics', u'Television & Video', u'Projection Screens']], B00004YMC5, Toshiba 61H70 61-Inch HDTV-Ready Projection TV>,4.87460815047022>
+<<[[u'Electronics', u'Television & Video', u'Projection Screens']], B00000IZZB, RCA L2500BC 2.5-Inch LCD Screen TV>,3.32777777777778>
+<<[[u'Electronics', u'Television & Video', u'Televisions']], B00000K3X4, Toshiba CX32H60 32&quot; TV>,5>
+<<[[u'Electronics', u'Television & Video', u'Televisions']], B00001QGUW, Sony KP-61S65 61&quot; Projection TV>,5>
+<<[[u'Electronics', u'Television & Video', u'Televisions']], B00001Z3HH, Hitachi 36CX39B 36&quot; TV>,5>
+<<[[u'Electronics', u'Television & Video', u'VCRs']], B00000JFDZ, Sony SLV-M20HF Hi-Fi S-VHS VCR>,5>
+<<[[u'Electronics', u'Television & Video', u'VCRs']], B0000206DT, Sony EV-C25 8mm Hi-Fi Stereo VCR>,5>
+<<[[u'Electronics', u'Television & Video', u'VCRs']], B000050B8E, Mitsubishi HSU576 VCR>,5>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Systems']], B00005NCW4, Hughes HSYS-E2532 Gold Series Deluxe Dual LNB DIRECTV Satellite System>,4.55555555555556>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Systems']], B00004SSRC, RCA DS4240RE DIRECTV Dual LNB System with Free Pro-Installation>,4.49333333333333>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Systems']], B00000J02B, RCA DS2232RD DIRECTV System with Dual LNB>,3.95238095238095>
+<<[[u'Electronics', u'Portable Audio & Video', u'Boomboxes']], B00000J3NR, Aiwa CADW530 Portable CD Stereo Boombox>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Boomboxes']], B00000JFOF, Sharp QTCD114BK Boombox>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Boomboxes']], B00001P4PC, Aiwa CSDED67 AM/FM/CD/Cassette Boombox>,5>
+<<[[u'Electronics', u'Television & Video', u'Home Theater Systems']], B00005KC8R, JBL ProPack 600 8-Piece DVD/Receiver Home Theater System>,5>
+<<[[u'Electronics', u'Television & Video', u'Home Theater Systems']], B00005TN7L, Aiwa HT-DV90 DVD Home Theater System (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Television & Video', u'Home Theater Systems']], B00005NCWC, Pioneer HTD-510DV 5-Disc DVD Home Theater System (Discontinued by Manufacturer)>,4.63836139169473>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Players']], B00000J3OM, Toshiba SD-5109 Twin-Tray 2-Disc DVD Player>,5>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Players']], B00000K1WN, Onkyo DV-S717 DVD Player>,5>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Players']], B00005LABT, Sharp DV-L80U Portable DVD Player>,4.92592592592593>
+<<[[u'Electronics', u'Portable Audio & Video', u'Cassette Players & Recorders']], B00000JYLD, Aiwa HSTX686 AM/FM Digital Stereo Cassette Player>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Cassette Players & Recorders']], B00000K1RG, Panasonic RQ-E15V Personal AM/FM Cassette Stereo>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Cassette Players & Recorders']], B00001QEAU, Panasonic RQSW33V Shockwave Personal Stereo>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Wireless Jack Systems']], B00005MIU8, GE 96595 InstaJack for Phones>,3.27880439673142>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Wireless Jack Systems']], B00000J0D5, RCA RC930 Caller-ID-Compatible Wireless Modem Jack>,3.23250770642726>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Wireless Jack Systems']], B00000J08Q, RCA RC926 Wireless Phone Jack>,2.79793608232111>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cables & Cradles']], B00005AR2F, Handspring Visor Edge Serial HotSync Recharging Cradle>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cables & Cradles']], B00005OCXF, Handspring USB Docking Cradle (Clear) for Visor Neo>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Cables & Cradles']], B00005V9C4, iConcepts USB HotSync Cable for Sony Clie (300/500/600/700)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'TV Antennas']], B00000JLAA, Recoton Powerwave Antenna Amplified (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'TV Antennas']], B00005QZ0G, Jensen TV640 Antenna (Discontinued by Manufacturer)>,4.26315789473684>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Antennas', u'TV Antennas']], B00005T3A4, RCA Indoor VHF/UHF/FM Antenna (ANT-110) (Discontinued by Manufacturer)>,4.12605042016807>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDAs & Handhelds']], B00004TXBH, Handspring Abbey Nubuck (Sage Green)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDAs & Handhelds']], B00005T38Z, CLIE PEG-N610C/V Purple Handheld>,4.39984870202261>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDAs & Handhelds']], B00003Q5HV, Casio PV-400PLUS Cassiopeia Pocket Viewer Handheld Organizer>,4.11539082479677>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets']], B00001W0G1, Plantronics SP-04 Headset Telephone>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets']], B00005B98D, Bell Sonecor BE2000CHS Lightweight Telephone Headset>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets']], B00001W0FJ, Plantronics H51M12 Supra Monaural Headset and Modular Amplifier>,4.75757575757576>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'VCR Rewinders']], B00000J0E6, RCA VHS Rewinder (Discontinued by Manufacturer)>,4.44444444444444>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camcorder Batteries']], B00004U4SM, Samsonite Worldproof 4.3 Blue/Black Mid-Size Camcorder Bag>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camcorder Batteries']], B000050MN9, Polaroid i-zone Plush Heart Suction Cup Photo Frame>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries', u'Camcorder Batteries']], B000050NPS, Polaroid i-zone Red Paisley Acrylic Magnetic Photo Frame>,5>
+<<[[u'Electronics', u'Security & Surveillance', u'Radio Scanners']], B00000J0FF, Uniden Sportscanner 100-Channel 12-Band Scanner (Discontinued by Manufacturer)>,4.75>
+<<[[u'Electronics', u'Security & Surveillance', u'Radio Scanners']], B00000JBRP, Uniden BC895XLT 300-Channel TrunkTracker Scanner (Discontinued by Manufacturer)>,4.43418803418804>
+<<[[u'Electronics', u'Security & Surveillance', u'Radio Scanners']], B00000JBQX, Uniden 100 Channel Programmable Scanner (BC278CLT)>,4.30434782608696>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Handset Cords']], B00000JBJP, AT&amp;T Tuff Cord 25-Ft. (White)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Handset Cords']], B00002N7JF, Leviton C2427-25I 25-Foot Phone Line Dual Extension Cord, Color Ivory>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Handset Cords']], B00005T3HV, 50' MicroThin&reg; Modular Line Cord>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Batteries']], B00000J0UP, AT&amp;T 4132 Cordless Replacement Battery>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Batteries']], B00000J1DT, AT&amp;T 4291 Cordless Replacement Battery (Gray)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Batteries']], B00005QZ0R, Recoton T102 3.6 V, 300 mAh Ni-Cd with universal Plug Cordless Battery>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'Repair Kits']], B00001TPXU, Curtis TK10 56-Piece Computer Tool Kit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'Repair Kits']], B00004Z5W5, Fellowes Standard 11-Piece Computer Tool Kit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'Repair Kits']], B00004Z5D1, Belkin Anti-Static Wrist Band with Adjustable Grounding>,4.45114306685241>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects']], B00004Z5GZ, Belkin Gender Changer DB25F/DB25F Shielded Low Profile>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects']], B00005T3GG, RCA Stereo &quot;Y&quot; Adapter Plug (AH205)>,4.8>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects']], B00003CW9O, Monster I300MKII-2M 300 Series Mark II RCA Stereo Cables (2 meters)>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones']], B000063ILE, Labtec Elite 828 Computer Headphones with Cushioned Leatherette Earpads (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones']], B00004T8R3, Panasonic RPHV149 Stereo Insidephone Headphone (Discontinued by Manufacturer)>,4.6>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones']], B00004TL60, Labtec Edge LC-418 Flat Panel 3-Piece Computer Speakers>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Fiber Optic Cables']], B00003CWAA, Monster Cable ILS100TM-2M Interlink LightSpeed 100 High Performance Digital Fiber-Optic Cable 2 m. Fiber-Optic Toslink-to-mini optical>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Fiber Optic Cables']], B00006343R, Monster Cable ILSR-2M Interlink Lightspeed Reference Fiber Optic Digital Cable (2 Meter) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Fiber Optic Cables']], B00000J1G3, Acoustic Research HT181 Optical Digital Cable (6')>,3.77777777777778>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'F-Pin-Coaxial Tip']], B00002N5GX, Leviton C5851-3GO RG59 Coaxial Cable with Molded on Gold F Connector Plugs on Each End, Black, 3-Foot>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'F-Pin-Coaxial Tip']], B00003CWEN, Monster Cable MV3FMini-2M Monster Video Mini (Easy to Hide F-Pin Video Cable (6.56 ft.)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'F-Pin-Coaxial Tip']], B00003CWEP, Monster Cable MV3FMini-8M Monster Video Mini (Easy to Hide F-Pin Video Cable (26.2 ft.) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Caller ID Displays']], B00005NGRR, GE 29092GC1 Caller ID Box>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Caller ID Displays']], B00002SSWU, Text to Speech Talking Caller ID (White)>,4.77777777777778>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Caller ID Displays']], B00001ZWPF, Sony TLID10 Caller ID Display>,4.25>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Radar Detectors']], B00004YMC8, Escort Inc. Passport 6800 Radar/Laser/Safety Detector>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Radar Detectors']], B00004Z4L9, Beltronics 950 Radar Detector>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Radar Detectors']], B000056SKP, Cobra ESD-9550 9-Band Radar Detector>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Headsets & Microphones']], B000056SL7, Kenwood HMC3 VOX Headset for use with UBZ-LF/LH and TK-3101>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Headsets & Microphones']], B000056SLJ, Kenwood KMC21 Speaker Microphone for TK3101>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Headsets & Microphones']], B000056SLO, Kenwood SMC34 Speaker Mic for Kenwood Handheld Radio Transceivers>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Battery Chargers']], B000051SE0, Cobra FRS110 Two-Way Radio Pair with Batteries &amp; Charger>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Battery Chargers']], B00004TKWI, Cobra FA-CR Desktop Charger for NiMH FRS Radio Batteries>,4.26923076923077>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Battery Chargers']], B00005AK7H, Midland G30 5-Mile 15-Channel FRS/GMRS Two-Way Radio>,3.18253968253968>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Two-Way Radios']], B00004TJ35, Kenwood UBZ-AL14 2-Mile 14-Channel FRS Water-Resistant Two-Way Radio (Pair)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Two-Way Radios']], B00004WFXU, Audiovox FR5002 2-Mile 3-Channel Two-Way Radios (Pair)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Two-Way Radios']], B00005KI3M, Cobra MIcroTalk 225 2-Mile 14-Channel FRS Two-Way Radio (Pair)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Repair Kits']], B000029708, DiscRestore 3690 DiscRx for DVD Pro Series II>,4.95061728395062>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Repair Kits']], B000029709, DiscRestore 3685 DiscRx for DVD Pro Series 1>,3.92857142857143>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair', u'Disc Repair Kits']], B00005B9W6, Skipdoctor CD Repair Kit (Discontinued by Manufacturer)>,3.23705818049893>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Surge Protectors']], B00000J1UH, Belkin F5C595-TEL SurgeMaster II Phone Line Surge Protector; 8 Outlet; 1214 Joules; 35k Warranty (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Surge Protectors']], B00001TPXT, Curtis SP9700M Surge Protector (8 Outlet)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Surge Protectors']], B000031WDE, Fellowes Superior 8-Outlet Block with Phone and Dual Coax>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'KVM Switches']], B00000J1S0, Belkin F1U125-KIT Bitronics Auto Switch Kit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'KVM Switches']], B00004Z7Y7, Belkin Omnicube Mon/Kybrd/Mouse KVM 2 PORT SWITCH for VGA and PS2>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'KVM Switches']], B00004Z9DF, Belkin 8-Port Rackmountable Omniview Pro KVM Switch with On-Screen Display>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cable Straps']], B00000J1SC, Belkin Velcro Cable Ties (8 Inch)>,4.02041714209452>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Camcorder Accessories']], B00005T3C1, SONY IFT-R20 - LaserLink(R) IR Transmitter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Camcorder Accessories']], B000063SAS, Sony MSACA8 Memory Stick Holder>,4.42857142857143>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Camcorder Accessories']], B00000JD5K, Emerson EVC1595 Digital Multi-System Video Converter>,3.7>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Parallel Cables']], B00000J1U9, Belkin Components F2A046-06GLD Gold Series IEEE 1284 A-B Printer Cable; DB25M/Cent36M (6 Feet)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Parallel Cables']], B00000J3S6, Hewlett Packard Jornada 720 Sync Cable>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Parallel Cables']], B00000JDF9, Belkin F2A036-15 Standard Parallel Printer Cable (15 Feet)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'VGA Cables']], B00004Z5N3, Belkin Gender Changer HDdb15F/HDdb15F Low Profile>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'VGA Cables']], B0000511KG, C2G / Cables to Go - 02635 - 6ft Econo HD15 M/M SVGA Monitor Cable>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'VGA Cables']], B0000512US, Tripp Lite P500-006 6ft SVGA / VGA Monitor Extension Cable with RGB Coax Gold HD15M / HD15F 6-Feet>,4.53260869565217>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Serial Cables']], B00000J1UW, Belkin F2L087 DB9 Male/DB25 Female AT Serial Adapter Block>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Serial Cables']], B00004Z5A9, Belkin Laplink/Interlink Serial DB9F/DB9F - 10ft>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Serial Cables']], B00004Z5CN, Belkin DB9M/DB9M Shielded Gender Changer>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Modem Cables']], B00000J1U5, Belkin F4A602 Null Modem Adapter; DB25M/DB25F>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Modem Cables']], B00003CWC0, Monster Cable Ultra-High-Speed RJ11 Internet Phone Cable (5-Feet, Yellow)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Modem Cables']], B00004Z5RG, Belkin At Serial Modem DB9F/DB25M Premium Gold - 10ft>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Power Cables']], B00000J1UD, Belkin F2N503 Internal Drive Power ftftYftft Splitter Cable; 4Pin Male/ 2x4Sok Female; 6&quot;>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Power Cables']], B00003CWDW, Monster Cable MP PLX-12 PowerLine 100 12ft Extension Cable Extension cable>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Power Cables']], B00004Y3UW, Monster Cable CPFD 34A Competition PowerFuse Distribution Blocks Comp Series PFD 34 AGU fuse style (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Ethernet Cables']], B00004Z59H, Belkin 4ft 10/100BT RJ45M/RJ45M CAT5E Patch Cable (Gray)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Ethernet Cables']], B00004Z5BR, Belkin 4ft 10/100BT RJ45M/RJ45M CAT5E Patch Cable (Yellow)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Ethernet Cables']], B00004Z5BU, Belkin 4ft 10/100BT CAT5E Patch RJ45M/RJ45M Red>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'SCSI Cables']], B000051213, C2G / Cables to Go 3574 External SCSI-1 C50M Active Term inator (Silver)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'SCSI Cables']], B0000513P9, C2G / Cables to Go - 20710 - 6ft VHDCI .8mm 68M to SCSI-3 MD68M (Thumbscrew) Cable>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'SCSI Cables']], B00005V51W, Tripp Lite S236-000 External SCSI II Adapter HD50M/DB25F>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'PS/2 Cables']], B00005114O, C2G / Cables to Go 02476 AT Female to PS/2 Male Keyboard Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'PS/2 Cables']], B00005118K, C2G / Cables to Go - 02715 - 6ft PS/2 M/F Keyboard Mouse Extension Cable>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'PS/2 Cables']], B0000511G3, C2G / Cables to Go - 04999 - 10ft PS/2 M/F Keyboard Mouse Extension Cable>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Zip Drives']], B00005LLOF, Iomega Zip Drive 250MB External USB, Color Blue>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Zip Drives']], B0000300S4, Iomega 11113 Zip 250MB ATAPI Internal Drive>,4.71111111111111>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Zip Drives']], B00004SPUQ, Imation USB External SuperDisk Drive>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Zip Discs']], B00000JJH2, Iomega - ZIP - 250 MB - PC - Storage Media>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Zip Discs']], B00004Y2PO, Iomega 40 MB PocketZip Disk (4 Pack)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Zip Discs']], B00004Y2R8, Iomega Zip 100MB Cartridge (PC Formatted, 3-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Home Audio', u'Compact Stereos']], B00000J3NC, Sharp MDM3 Mini-Disc/CD Compact Stereo System>,5>
+<<[[u'Electronics', u'Home Audio', u'Compact Stereos']], B000050I7P, Aiwa NSXDS11 Compact Stereo System>,5>
+<<[[u'Electronics', u'Home Audio', u'Compact Stereos']], B000050IPZ, Aiwa NSXAJ50 Compact Stereo System (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Minidisc Players']], B00001ZWWG, Sony MDSJB920 MiniDisc Recorder>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Minidisc Players']], B00001ZWWI, Sony MDSJE320 MiniDisc Recorder>,4.83333333333333>
+<<[[u'Electronics', u'Portable Audio & Video', u'Minidisc Players']], B00000J3NE, Sharp MDMT821 Ultra-Thin Minidisc Player/Recorder>,4.37299176488211>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Modems']], B00004V3IH, Viking FM56KPA 56K PC Card Fax/Modem>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Modems']], B000051222, Symphony Cordless PC Card with Snap On Antenna>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Modems']], B0000514IE, Xircom 16-Bit 10/100 56K Global Realport Enet Modem56>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Receivers & Amplifiers', u'Component Receivers']], B00001ZUJA, Kenwood VR-3080 Dolby Digital Receiver with DTS (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Receivers & Amplifiers', u'Component Receivers']], B00000J3OK, Toshiba SD6109C DVD Player/50-Watt Receiver Combo>,4.51082251082251>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Receivers & Amplifiers', u'Component Receivers']], B000066R6K, Sangean ATS-505P FM Stereo/MW/LW/SW PLL Synthesized World Receiver>,3.72451174017994>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Adapters']], B00000J3SA, Viking PC Card CompactFlash Adapter (CF-ADAPT)>,4.39181414258176>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Adapters']], B0000511P7, Lexar Media CompactFlash Card Adapter (CFAD-003)>,4.36507936507937>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Card Adapters']], B00000JHWY, Olympus 200-557 FlashPath Floppy Adapter>,4.34245575624886>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Chargers & Adapters']], B00005JJES, Recoton AD500 500MA AC Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Chargers & Adapters']], B00005K4LI, Sony AC V700 Adaptor and Charger Authentic>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Chargers & Adapters']], B00005V9C5, iConcepts USB Charger for Sony Clie (300/500/600/700)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Webcams']], B00000J3SV, Intel ICS2USB Create-and-Share Tethered Camera>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Webcams']], B00005UK9L, HOME PC CAMERA>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Webcams']], B0000631YQ, Creative Labs PD0160 PC-CAM 300>,4.66666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Hard Drives']], B00004TS7X, Archos 6.4 GB PC/USB External Mini Hard Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Hard Drives']], B00005LLQE, Western Digital WD600A001RNN External FireWire 5400 RPM 60 GB Hard Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'External Hard Drives']], B00005QSPW, Iomega - Peerless - 20 GB - PC - storage media>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Security Locks']], B00000K4KH, Kensington 64068F MicroSaver Notebook Lock and Security Cable (PC/Mac)>,4.13592020910717>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Security Locks']], B00000J3UJ, Targus PA400U DEFCON 1 Ultra Notebook Computer Security System>,2.48833385646183>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Uninterrupted Power Supply (UPS)']], B00000J3X4, APC BK300C Back-UPS 300-Battery Backup and Surge Protection (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Uninterrupted Power Supply (UPS)']], B00000J507, APC BP350UC Back-UPS Pro 350>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Uninterrupted Power Supply (UPS)']], B00001ZWT6, NHT VT-2 Audio/Video Tower Speaker (Right/Single) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camcorder']], B00000J48J, Sony BCV615 Camcorder/Mavica Battery Charger for DCRVX2100 and HDRFX1>,4.44897959183673>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camcorder']], B000063XH4, Sony ACSQ950D AC/DC AC Adapter/Quick Charger for MiniDV Camcorders>,4.37662337662338>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers', u'Camcorder']], B00005Y3Y2, Sony PEGA-AC10 AC Adapter>,4.33333333333333>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Car CD Visors']], B00004TZED, CDV20 CD Visor Folio (20-Capacity) (Discontinued by Manufacturer)>,4.5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Car CD Visors']], B00004TZFP, FP1 Koskin Stereo Faceplate Case>,4.5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Car CD Visors']], B00000J49I, CASE LOGIC CDV12 12 Disc CD Visor (Discontinued by Manufacturer)>,4.05555555555556>
+<<[[u'Electronics', u'Accessories & Supplies']], B00004Y3V5, Monster Cable MV3RMC-4M MV3 Mini Car Video Cable (13.12 ft.)>,5>
+<<[[u'Electronics', u'Accessories & Supplies']], B0000512VK, Lexar Media 64 MB CompactFlash Digital Film Jewel Case>,5>
+<<[[u'Electronics', u'Accessories & Supplies']], B000063647, CDRJ-8 CD-R Case for 3&quot; Pocket CDs (8 Capacity, Nylon, Black)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Selector Switch Boxes']], B00005NCWJ, Sima SVS-4 4 Input A/V Switcher with Remote (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Selector Switch Boxes']], B00005NCWK, Sima SVS-14 4 Input Manual A/V Selector>,4.55089612856637>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Selector Switch Boxes']], B00005USA7, JVC JXS111 HD Compatible Component Video Switcher (Discontinued by Manufacturer)>,4.32220426632191>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Headsets']], B00000J4CQ, Labtec C316 Headset/Boom Microphone>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Headsets']], B00001W0FL, Plantronics PLX-500 Single or Multi-Line Headset>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones', u'PC Headsets']], B00004S7PV, AT&amp;T 90894 Noise Cancelling Headset (Lime)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'DVD Cases']], B00005AMD7, cdProjects CDBPS208P Sport CD Binder (208-CD Capacity, Purple) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'DVD Cases']], B000023VXE, Meade/Laserline DVD30ND Plastic DVD Organizer (30-Capacity) (Discontinued by Manufacturer)>,4.83333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'DVD Cases']], B00000J4CX, DVA20 Koskin DVD Album (20-Disc Capacity) (Discontinued by Manufacturer)>,4.8030303030303>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Minidiscs']], B00000J4D7, TDK 74-Minute Blank Audio MiniDisc, Single>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Minidiscs']], B00000K0HP, Aiwa AMHX30 Portable Minidisc with headphones &amp; remote>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Minidiscs']], B00000J4IT, TDK Recordable Minidisc (5-Pack)>,4.73333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair']], B00004Z59K, Imation 3.5IN Dry Head Claening Kit 30 Cleanings>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair']], B00004Z59Z, Fellowes Telephone Cleaning Wipes 12 Foil Packs - Pre Moistened>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair']], B00005T3Z6, Sara Lee 3.5&quot; Disk Drive Cleaner (263000)>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cable Security Devices']], B00004Z68X, Belkin Bulldog Universal Security Kit with Heavy Duty Lock and 6FT Cable>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cable Security Devices']], B00004Z6ON, Kensington 64032 Master Lock Universal Notebook Security Cable - Black>,4.19257631257631>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cable Security Devices']], B00000J4DV, Kensington Desktop Microsaver Universal Computer Key Lock and Cable Security System 64162a>,4.11685823754789>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Floppy Diskettes']], B00004YKNM, Imation SuperDisk 120MB Windows/DOS/IBM formatted (5-Pack)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Floppy Diskettes']], B00004Z59G, Imation 3.5IN 1.44MB Preformatted IBM Neon Paper Sleeve with Hangtab (5-Pack)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'Floppy Diskettes']], B00004Z5JS, Imation 3.5IN Primaris 1.44 MB Preformatted IBM Floppy Diskettes (10-Pack)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Network Cards']], B00004Z7F9, Intel 10/100MB 10BT/100BTX RJ45 Pro/100+ Fast Enet PCI Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Network Cards']], B00004Z7O2, D-Link 5-Port Hubby Kit for Small Workgroups with 2 PCI DE-528 NICS and 2/20FT Cables>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Network Cards']], B00005QXYU, 3Com Etherlink III LAN PC Card>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camcorder Cases']], B00004TLPA, CBV-12 Nylon Camcorder Bag with Detachable Camera Bag (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camcorder Cases']], B00004TLPN, Case Logic DVC60 Koskin Digital Camcorder Bag>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Camcorder Cases']], B00004TX6K, Lowepro Vidcam 2 Video Camera Bag>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Sound Cards']], B00001T38L, Digital Research DRSOUNDA3D2 Aureal Vortex 2>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Sound Cards']], B00005I9PS, Yamaha RP-U200 CAVIT External Audio Soundboard with Receiver (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Sound Cards']], B00005UKB3, Rythmic Edge II PSC70317SOUNDCARD 4CHANNEL Quadrophonic Pc>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories']], B00004TBGE, Panasonic RPSB30 CD Jogger Belt (Discontinued by Manufacturer)>,4.33333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories']], B00000JBB1, Rio Headphone Remote>,4.06390977443609>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories']], B00001P4WE, Y88 Gives Dual Connection From Accs Headset>,3.45714285714286>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Graphics Cards']], B0000513JS, Margi Systems DVD-to-Go Zv-Notebook PCMCIA2 Decoder Card for Mpeg2/Mpeg1/Ac3>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Graphics Cards']], B000066JPY, Presenter-to-go Type-ii Cf Cardfor Ipaq &amp; Pocket Pc Handhelds>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Graphics Cards']], B00004I9W2, 3dfx Voodoo3 2000 AGP Graphics Accelerator>,4.8>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'Laptop Network Adapters']], B00005KB22, D-Link DFE-680TXD PCMCIA Card Bus NIC 10/100>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'Laptop Network Adapters']], B00005MO56, 3Com 10/100 32-bit CardBus LAN PC Card>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'Laptop Network Adapters']], B00005NIM6, 3Com 3CCFE574BT Megahertz 10/100 LAN PC Card>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Print Servers']], B00004Z8J7, HP Jetdirect 170x External Print Server for Ethernet 10Base-T Networks>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Print Servers']], B000065940, Hawking Technology PN7337P 3-Port 10/100 IPP Print Server>,4.2>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Print Servers']], B000063V09, SMC7008ABR Barricade Cable/DSL router with 8-port 10/100Mbps switch and Integrated Print Server>,4.13590449954086>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Subwoofers']], B00000JBK6, Altec Lansing ACS45.2 Powercube Speaker System with 20 Watt Subwoofer/3Watt Satellites (3-Piece)>,4.35858585858586>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Subwoofers']], B00005T3WM, Polk 3-Piece Satellite/Subwoofer System (AMR50) (Discontinued by Manufacturer)>,4>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Subwoofers']], B00006343N, Monster Cable MP SW 200 Subwoofer PowerCenter SW 200 with Clean Power Stage 1 v2.0 (Discontinued by Manufacturer)>,3.31951857666143>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components']], B00005KABC, Sony Minidisc Walkman Player and Recorder MZ-R700>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components']], B00000JBPB, GPX C3948BI Ultra-Slim CD Player with 40-Second Anti-Shock Protection and Car Kit>,3.51677010388465>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components']], B00000JYKN, Aiwa AMF70 Portable Minidisc Recorder/Player>,3.46666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Trackballs']], B00000K4KZ, Kensington K644220 Orbit ADB Trackball (Mac)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Trackballs']], B00004W40X, Crayola Kids PC Trackball>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Trackballs']], B00004Z6T2, Micro Innovations Crayola Trackball Designed For Children>,4.90909090909091>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Cases']], B000056I6K, Motorola TalkAbout Belt Carrying Case / Arm Band>,4.35087719298246>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Cases']], B00004UF27, Panasonic Universal FRS Carry Case>,4.35>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Cases']], B000051SFQ, Case Logic FRS2 Neoprene FRS Carrying Case>,4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'RCA Cables']], B00003CWA4, Monster ILR2-1M Audio Interconnect Cables, Pair (3.28 Feet) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'RCA Cables']], B00003GPC1, Monster Z100i-1M Audiophile Performance Interconnect Cable, 1 Pair (3.28 ft.)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'RCA Cables']], B00005T3GE, RCA Mini Stereo Jack Into Mono Jack (AH13) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters']], B0000511VQ, Hawking Technology PN652TX PC Card (10/100 Mbps)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters']], B00005UKAN, Orange Micro 70USB90020 OrangeUSB 2.0 Hi-Speed Cardbus PC Card for Notebooks>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters']], B00003006R, Cisco-Linksys by Cisco LNE100TX EtherFast 10/100 LAN Card>,3.80348326886788>
+<<[[u'Electronics', u'Security & Surveillance', u'Accessories', u'Access-Control Keypads']], B00000JDDS, Micro Innovations KP17B Numeric Keypad>,4.61904761904762>
+<<[[u'Electronics', u'Security & Surveillance', u'Accessories', u'Access-Control Keypads']], B00005BAUP, IBM  09N5546 Numeric Access Keypad>,4.25>
+<<[[u'Electronics', u'Security & Surveillance', u'Accessories', u'Access-Control Keypads']], B00005BAV7, Micro Innovations 09N5547 Numeric Access II Keypad (USB)>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Touch Pads']], B00004Z7A5, FELLOWES 99841 Internet Glidepoint Touchpad>,4.44444444444445>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Touch Pads']], B00001RMDC, Cirque GPB160 Easy Cat Combo Touchpad>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Touch Pads']], B00000JDFM, Micro Innovations KB98T Micro Touch Touchpad Keyboard>,3.71428571428571>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Floppy & Tape Drives']], B00004Z5NW, Imation 5.25IN 360Kb Preformatted IBM (10-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Floppy & Tape Drives']], B00004Z8RC, SmartDisk Ls-120 3.5IN 120MB Superdisk For Apple Powerbook G3 Series>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Floppy & Tape Drives']], B0000300CJ, OnStream DI-30 30GB Digital Drive>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Video', u'Camcorders']], B00000JDHC, Sharp VNEZ1 MPEG-4 Internet Viewcam>,3.2765811965812>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal CD Drives']], B00004SWKV, Ricoh SCSI Internal 6x4x24 Mediamaster Kit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal CD Drives']], B00005QVL9, QPS QPCDRW241040I 24x10x40 Internal IDE CD-RW Drive>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Optical Drives', u'Internal CD Drives']], B000062TT7, TDK AI321040 EIDE 32x10x40 veloCD CD-RW Drive>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Speaker Systems']], B00000JDJW, Boston Acoustics BA-635 3-Piece MircMedia Speaker System>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Speaker Systems']], B00005ML6V, Acoustic Research ARHC6 6-Piece Home Theater Speaker System (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Speaker Systems']], B00005UP0D, Monsoon MH-502 Flat Panel Audio Speaker System>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal TV Tuner & Capture Cards']], B0000512L0, Hauppauge WinTV-DBX 125 Channel TV Tuner - Canadian Edition (French &amp; English) (Model 703)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal TV Tuner & Capture Cards']], B00004Z7O9, Pinnacle Systems Studio PCtv USB>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal TV Tuner & Capture Cards']], B00005Q0SK, Microsoft TV Photo Viewer>,4.01723905723906>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Adapters']], B00000JFF2, Xircom Rex Pro 5 PC Companion>,4.68333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Adapters']], B00004T2LK, Keyspan USB PDA Adapter>,4.20512820512821>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Adapters']], B00005Y3Y4, Sony PEGA-SA10 Audio Adapter for Clie PEG-T/SJ Series>,3.33333333333333>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'CD Players & Recorders', u'CD Players']], B000023VTU, On-Hold Acoustic Format Audio CD (60-Minutes, Single CD) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'CD Players & Recorders', u'CD Players']], B00005U21I, Sony DPV-NC650V 5-Disc SACD/DVD Changer>,4.51851851851852>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'CD Players & Recorders', u'CD Players']], B00000JFI2, Sony DE301 ESP CD Player>,3.95238095238095>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories']], B00006364D, Case Logic AGB-11 Black Glove Box Organizer>,4.42857142857143>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories']], B00000JFI7, CLS36 36 Cassette Carrying Case with Adjustable Strap (Discontinued by Manufacturer)>,3.59707602339181>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-RW Discs']], B00000JFIU, TDK 74-Minute Music Rewritable CD-RW, 650 MB (Single)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-RW Discs']], B00000JKKZ, Memorex 650MB/74-Minute 4x Music CD-RW Media>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'CD-RW Discs']], B00005TZ9I, Fujifilm CD-RW (10-Pack with Jewel Cases)>,4.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses']], B00004TVS0, Vivitar 75-300mm Manual Focus Zoom Lens for Minolta Camera>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses']], B00004ZD3I, Tamron AF28-200 f/3.8-5.6 Super II Macro Minolta Mount Lens (Silver)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses']], B0000501TL, Sigma 17-35mm f/2.8 EX Aspherical HSM Lens for Pentax SLR Cameras>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization']], B00005AM94, cdProjects RDA100 Roladisc (100 Sleeves, Aluminum)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization']], B000063ENF, cdProjects EX1U02 CD Case (64-Capacity, Ultra Nylon, Black)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization']], B00001P495, cdProjects Blue Sports Carry Case (holds 72/36 CDs) w/ Free Sports Watch>,4.6>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Covers']], B00005V5T1, Hewlett Packard Jornada 560 Series Pocket Keyboard>,3.5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Covers']], B000023VPY, Incase EO Travel Backpack (Black) fits up to 17&quot; MacBook Pro>,2.39666666666667>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Covers']], B00000JHVK, PalmOne PalmPilot Hard Plastic Cover>,2>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SmartMedia Cards']], B00005JGFK, Delkin 128 MB SmartMedia Card (DDSMFLS2-128)>,4.82905982905983>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SmartMedia Cards']], B00004SCKA, SanDisk 64 MB SmartMedia Card>,4.64575270855464>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'SmartMedia Cards']], B00004R8V5, Olympus 32 MB SmartMedia Card>,4.62068965517241>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Accessory Kits']], B000066HU8, Sony ACCCSNQ Accessory Kit for DSCP31/51/71>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Accessory Kits']], B00000JHX1, Olympus 200-540 1.45X Teleconverter Lens>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Accessory Kits']], B00005MP51, HP PhotoSmart 912 Digital Camera Accessory Kit>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Accessory Kits']], B00005V9BZ, iConcepts Starter Kit with MGI for Palm (m500 series)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Accessory Kits']], B00004WHF4, PalmOne m100 series Faceplate Cover (Silver Mist)>,4.21489361702128>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories', u'PDA & Handheld Accessories', u'Accessory Kits']], B00000JI2D, PalmOne V Travel Kit>,3.8057801737047>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'CompactFlash Cards']], B00004TE73, Viking 32 MB CompactFlash Card with PC Card Adapter (CF32M-ADAPT)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'CompactFlash Cards']], B0000513UE, SimpleTech STI-CF/32 32MB CompactFlash Card>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'CompactFlash Cards']], B00005AT66, ADS Instant DVD 2.0 USBAV-702>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Digital Camera Lenses']], B0000501QC, Sigma 180mm f/3.5 EX IF HSM Macro Lens for Canon SLR Cameras>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Digital Camera Lenses']], B0000501QZ, Sigma 105mm F2.8 EX Macro Lens for Canon SLR Cameras>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Digital Camera Lenses']], B0000501TI, Sigma 70-300mm F4-5.6 DL Macro Super Lens for Canon-AF Camera>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Complete Tripods']], B00000JI46, Tiffen Table-Top Tripod>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Complete Tripods']], B00004TY7U, Velbon DH-20/4 Compact 4 Section Photographic/Video Tripod>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Complete Tripods']], B00004TYJG, Velbon SX-681K Deluxe Heavy-Duty Professional Photographic/Video Tripod>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tripod Legs']], B00004TY7F, Velbon CX-300 Floor-Standing Tripod>,4.46498257839721>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tripod Legs']], B000063W8P, Sony VCTD680RM Remote Control Tripod for Sony Cameras &amp; Camcorders>,4.23381642512077>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tripod Legs']], B00000JI48, Davis &amp; Sanford TRAVLR Traveler Tripod>,3.82803437164339>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Adapters & Converters']], B00000JLSJ, Olympus Conversion Lens Adapter Tube C-2000/2020/3000/3030 Zoom Cameras>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Adapters & Converters']], B00005IBU7, Tiffen MegaPlus Lens Adapter for Kodak DC215 (37mm thread)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Adapters & Converters']], B00005IBVH, Tiffen MegaPlus Lens Adapter for Canon Powershot G1(43mm thread)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Labeling Tapes']], B00002NDRZ, DYMO Tape with Black Printing, LetraTag Only (Green Metallic, 1/2in x 13ft)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Labeling Tapes']], B00004TS36, Brother TZ145 3/4in Labeling Tape (26.2ft, White on Clear)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Labeling Tapes']], B00004TS3C, Brother 3/4 Inch x 26.2 Feet Red on White for P-Touch (TZ242)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Graphics Tablets']], B00004YKIA, Wacom Graphire 4 X 5 USB Tablet with Cordless Mouse &amp; Pen (Blueberry)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Graphics Tablets']], B00004YKIB, Wacom Graphire 4 X 5 USB Tablet with Cordless Mouse &amp; Pen (Grape)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Graphics Tablets']], B00004Z99H, Wacom Intuos 6 X 8&quot; USB Tablet with Intuos Pen/Painter Classic>,5>
+<<[[u'Electronics', u'Television & Video', u'Televisions', u'Plasma TVs']], B00000K1RK, Pioneer PD-PV401 40&quot; Plasma Display Panel>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Hubs']], B00000K1SH, Entrega MAC-HUB-7U 7-Port USB HUB (Mac)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Hubs']], B00004Z8DK, Belkin F5U116 USB Multi-Port Hub>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Hubs']], B00005QXYG, Belkin F5U014 4-Port USB Hub>,4.66666666666667>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Handheld CB Radios']], B00000K2Z1, Midland 75810 40 Channel Handheld CB (Discontinued by Manufacturer)>,4.54890691908947>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Handheld CB Radios']], B00004VXNY, Uniden PRO538W 40-Channel CB Radio>,4.12702702702703>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Handheld CB Radios']], B00000K2YR, Midland 75-822 40 Channel CB-Way Radio>,3.9253051717003>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Antennas']], B00005N5X3, Cobra HG A2000 High Gear CB Antenna>,4.63736263736264>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Antennas']], B000066R6N, Sangean SR-3 AM/FM Pocket Size Receiver>,4.02272727272727>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories', u'Antennas']], B00005N5X2, Cobra CBRHGA1500 36-Inch Base-Load Medium Magnet Mount 300W CB Antenna>,4.01383593971829>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'Accessories']], B00000K2YZ, Midland 18-2983 Deluxe CB Magnetic Mount Antenna>,3.57894736842105>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners']], B00000K38X, Midland 77-115 40-Channel CB Radio>,4.96610169491526>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners']], B00005N5WT, Cobra 19DXIII 40-Channel CB Radio>,4.59259259259259>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners']], B00005N5WX, Cobra 29WXNWST Nightwatch 40 Channel CB Radio>,4.56539978310165>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios', u'Personal Radios']], B00001XDZ7, Sony SRF87 Sports Walkman Radio>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios', u'Personal Radios']], B00001ZWUR, Sony SRFH5 Street Style Sports Headset AM/FM Stereo Radio>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios', u'Personal Radios']], B00001YVIK, Sony SRF46 FM Radio Walkman>,4.44444444444444>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Barlow Lenses']], B000063Y9J, Celestron Ultima Barlow Lens>,4.64642857142857>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Barlow Lenses']], B00000K3RG, Meade #126 1.25-Inch 2x Short-Focus Barlow Lens>,4.10416666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Barlow Lenses']], B00004VUMF, Meade 128 3x 1.25 Inches Barlow Lens>,4.08111111111111>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Telescopes', u'Catadioptric']], B00000K3RK, Meade 497 Autostar Computer Controller for ETX Telescopes>,4.42424242424242>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Telescopes', u'Refractors']], B0000665V4, Celestron Erect Image Prism for Refractor and Schmidt Cassegrain>,4.64285714285714>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Telescopes', u'Refractors']], B00000K3RO, Meade 07210 No.932 45-Degree Erecting Image Prism Telescope Eyepiece, 1.25-Inch (Black)>,4.25018752930145>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'CD Racks']], B000028U3A, Meade/Laserline CD120TKD CD Tower (120-Discs) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'CD Racks']], B000040JQF, Exponent 34501 Media Solutions CD-Rom Drawer Storage (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'CD Racks']], B00005T3CK, Atlantic 5-Tier Adjustable CD Shelving (4010)>,4.63636363636364>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Telescope Cases']], B00004VV4J, Meade 773 Hard Carry Case for ETX-60 AT>,3.92>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Telescope Cases']], B00000K4B2, Meade 07328 ETX Hard Carrying Case>,3.48095238095238>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Telescopes']], B00000K4B4, Meade Soft Carry Bag>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Photo Adapters']], B00000K4B5, Meade 607 DC Power Cord with Cigarette Lighter Adapter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Photo Adapters']], B0000665V1, Celestron Car Battery Adapter for All Nexstar Telescopes>,4.46296296296296>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Photo Adapters']], B0000665V6, Celestron 93625 Universal 1.25-inch Camera T-Adapter>,4.24817462361862>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Digital Pens']], B000051282, Key Tronic View Flex Keyboard Skin Cover For E03601 Series Keyboards>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Digital Pens']], B00000LW6N, Seiko QT2001EDGB Quicktionary Reading Pen>,3.40674603174603>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories', u'Screen Filters']], B00001MXVT, Fellowes Glare 2000 Liteview for 16'' and 17'' Monitors>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories', u'Screen Filters']], B000034DED, Kantek Blueberry Translucent Color Contour Glare Filter 16''-17''>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Monitor Accessories', u'Screen Filters']], B00004Z7Q9, Kensington High Contrast Anti-Radiation Flat Filter for 19-21&quot; Monitor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Tape Libraries']], B00004YKNH, Imation 4MM DDS-125, DDS3, 12GB Tape 125m length, (1-Pack)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Tape Libraries']], B00004Z6O4, Imation Travan 8 GB, 8 GB/4 GB Cartridge(1-Pack)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Tape Libraries']], B00004Z7QL, Hewlett Packard 20/40 35/70 40/80Gb Dlt Iv Cart For 4000 7000 8000>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Firewire Cables']], B00004Y2ZV, Iomega Zip250 Firewire Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Firewire Cables']], B00004Z6CK, Belkin 14FT IEEE 1394 Firewire 6Pin/6Pin 400 MBPS 22/28 Awg Ice>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Firewire Cables']], B000051268, C2G / Cables to Go - 22918 - 3M IEEE-1394 Firewire Cable 6-pin/6-pin>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'FireWire Port Cards']], B00005NDUE, Epson B808342 IEEE-1394 Firewire Card>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'FireWire Port Cards']], B00004Y2P7, ADS Technologies API-400 Pyro ProDV 1394 Card>,4.87878787878788>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'FireWire Port Cards']], B00004Y281, Orange OrangeLink - FireWire adapter - CardBus - Firewire - 2 ports>,4.72857142857143>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers', u'Bookshelf Speakers']], B00001OX33, B &amp; W DM604 Series II Bookshelf Speakers (Pair)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios']], B00001P4PF, Aiwa HS-JS275 Portable AM/FM/Cassette Recorder>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios']], B00001ZWQH, Sony WMFX487 Walkman>,4.5>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios']], B00001YVI6, Sony Portable Sports AM/FM Radio (SRF-M78)>,3.82631578947368>
+<<[[u'Electronics', u'Camera & Photo', u'Digital Cameras', u'Point & Shoot Digital Cameras']], B000063VYI, Minolta Dimage S404 4MP Digital Camera with 4x Optical Zoom>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Digital Cameras', u'Point & Shoot Digital Cameras']], B00004Y9PO, Polaroid Max 0.3MP Digital Camera and MP3 Player>,3.71111111111111>
+<<[[u'Electronics', u'Camera & Photo', u'Digital Cameras', u'Point & Shoot Digital Cameras']], B00001RMCT, Lifeview USB RoboCam Digital Camera>,3.66666666666667>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Tuners']], B00005M1V3, Aiwa HSRX418 Aluminum Worldwide Digital Tuner AM/FM Cassette Stereo>,4>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Tuners']], B00005O786, Hitachi 32UX01S 32&quot; Dual Tuner PiP Stereo Color TV>,3.5>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Tuners']], B00005M1V9, Aiwa HSTX416 Digital Synthesized Tuner Worldwide AM/FM, 3LCD Battery Checker>,2.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Multimedia Cards']], B000063TM0, SimpleTech STI-MMC/32 32MB MultiMediaCard>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Multimedia Cards']], B0000541NM, Viking 64 MB MultiMedia Card>,4.2039442039442>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Multimedia Cards']], B0000630TP, SimpleTech STI-SM3/128 128MB SmartMedia Card>,4.17187789293052>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Professional Photo Albums']], B00001RMDY, Invent It! Photo Album Kit>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Professional Photo Albums']], B00004ZBOQ, Pioneer Bi-Directional Post Style Memo Pocket Album, Burgundy>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Professional Photo Albums']], B00005A42Z, Gallery Leather Classic Album Refills for 5 X 7 Photos>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'Parallel Port Cards']], B00001T382, Digital Research DRPCIEPP2 PCI Parallel Port Card>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'Parallel Port Cards']], B00001T37T, Digital Research DRPARAL1 Bi Directional Parallel Port Card>,3.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'CPU Processors']], B00004Z98E, Intel Pentium III P3 750Mhz/256Kb/100Mhz 750E Coppermine FSB Slot 1 Processor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'CPU Processors']], B0000514E6, Evergreen 400MMx Up-To-400Mhz Spectra Processor Upgrade for 75Mhz and Up>,4.72727272727272>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'CPU Processors']], B00001U0D9, PNY P-PNY133-PB Processor Upgrade for 486 Based Systems>,2.69444444444444>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RAM Discs']], B00005UKAB, PANASONIC LMAF-120U Blank DVD-RAM Discs ( 3-Pack ) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RAM Discs']], B00005UP45, Memorex 9.4GB Double-Sided DVD-RAM (Single) (Discontinued by Manufacturer)>,2.7>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RAM Discs']], B00005UP43, Memorex 4.7GB Type 2 DVD-RAM Media (Discontinued by Manufacturer)>,2.475>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Professional Video Accessories', u'VTR Decks']], B00001ZUIY, Sony CFS-W338 Stereo Boombox with Dual Cassette Decks and 2-Speed Tape Dubbing>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Memory Sticks']], B0000541NN, Viking USB Flash Memory Stick Reader Memory (MSREAD/U)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Memory Sticks']], B00005T3KT, Centon Electronics 8 MB Memory Stick-Blue (MSA8A2)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards', u'Memory Sticks']], B0000630MP, Sony 64 MB MagicGate Memory Stick (MSG64A)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film']], B00004SOZ0, Kodak Gold 100 Speed 24 Exposure 35mm Film (4 Pack)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film']], B0000520HG, Kodak Professional Plus X Pan Black and White Negative Film (ISO 125) 35mm 24 Exposures (151 5428)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film']], B0000520IG, Kodak ELITE Chrome 200 Film - 36 Exposure>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cord Reels']], B00005A1K1, Green Leaf WW-1 Wonder Winder Hand Crank Extension Cord Winder>,4.25138896002444>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cord Reels']], B0000225BA, Reelcraft L-4545-123-3 Spring Driven Cord Reel with 45-Feet of 12/3 Cord and Single Outlet>,4.02794612794613>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cord Reels']], B0000225BD, Alert Stamping 5000A-30GFCB 30-Foot Cord Reel with Circuit Breaker>,3.79615384615385>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios', u'Shortwave Radios']], B0000228GF, Sangean America, Inc. SNGSG622 12-Band Compact World Band Receiver with LED>,3.5060513119123>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Media Storage & Organization', u'Cassette Storage']], B000023VXD, Meade/Laserline Video24S VHS Storage Case (24-Tapes) (Discontinued by Manufacturer)>,4.69230769230769>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Power Converters']], B000051283, Focus Enhancements 1600 X 1280 I-TView DV Imac-to-TV Video Scan Converter>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Power Converters']], B00005T39W, RCA Foreign Voltage Plugs (5 Pack) (AH240X)>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Power Converters']], B0000511H7, Antec TVator Exec External PC/MAC to TV High Resolution Scan Converter with Zoom and Pan Controls>,4.33333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair']], B00002970C, DiscRestore 3675 DiscRx Pro Series 1>,4.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cleaning & Repair']], B00002970B, DiscRestore 3680 DiscRx Pro Series II (Discontinued by Manufacturer)>,4.28983516483516>
+<<[[u'Electronics', u'Security & Surveillance', u'Motion Detectors']], B00002N7FQ, Heath/Zenith SL-5407-BZ-B Replacement Motion Sensor, Bronze>,4.25855855855856>
+<<[[u'Electronics', u'Security & Surveillance', u'Motion Detectors']], B00002N5E4, Heath Zenith SL-5408-WH Motion Sensing Security Light (White)>,2.99033344194634>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Wall Plates & Connectors']], B00002NAV8, Leviton  1-Gang Duplex Receptacle Wallplate, Ivory>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Wall Plates & Connectors']], B00004YUJI, LEVITON DECORA WALL PLATE IVORY (10 PACK) #80401-IMP>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Wall Plates & Connectors']], B00002NAWS, Leviton C5256-WGO Smooth Flush Mount Wallplate, Provides 75-Ohm Gold Connector For Coaxial Cable Hookup To TV Or VCR, Color White>,4.5>
+<<[[u'Electronics', u'Security & Surveillance', u'Home Security Systems']], B00002NBSE, El50 Fire Escape Lddr-Metalrgs>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Mounts', u'Speaker Mounts']], B00004Y3TA, Monster Cable MM1SBOOK-B Monster Mounts Speaker Mount For One Small Bookshelf Speaker 8 lb. capacity (Black) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Mounts', u'Speaker Mounts']], B000066889, OmniMount 25RWX-UMK Universal Mounting Kit for speakers with Extended Arm (Max. weight 8 lbs, White) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Mounts', u'Speaker Mounts']], B00006688D, Audio Basics AB2-Bk Bookshelf Speaker Mounting Kit (Black)>,5>
+<<[[u'Electronics', u'Television & Video', u'Streaming Media Players']], B00004TKHY, Panasonic PV-HS1000 ShowStopper Digital Video Recorder>,4.32>
+<<[[u'Electronics', u'Television & Video', u'Streaming Media Players']], B00002SWUE, Philips HDR112 Tivo Digital Video Recorder>,4.25818454828737>
+<<[[u'Electronics', u'Television & Video', u'Streaming Media Players']], B00002SWHH, Philips HDR312 TiVo 30-Hour Digital Video Recorder>,4.08308213149929>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers']], B00005UPFU, Benwin BW2000 3 Piece Flat Panel Multimedia Speaker System (Black)>,3.5047619047619>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Speakers']], B000030062, Infinity SM255 Speaker (Discontinued by Manufacturer)>,3>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Shoulder Bags']], B000031WDA, Fellowes Computer Brief>,3>
+<<[[u'Electronics', u'Portable Audio & Video', u'Digital Voice Recorders']], B000063TN2, Samsung YP-30S 64 MB Digital Audio Player and Voice Recorder>,3.75354113748304>
+<<[[u'Electronics', u'Portable Audio & Video', u'Digital Voice Recorders']], B00005KC97, Digisette DUO-ARIA 64 MB E-Cassette Multi-Format Digital Audio Player>,3.61904761904762>
+<<[[u'Electronics', u'Portable Audio & Video', u'Digital Voice Recorders']], B000036556, LandWare GoVox Digital Voice Recorder for Palm III>,3.24212560386473>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Subwoofer Cables']], B00003CW9B, Monster Cable Interlink 201 Subwoofer Interconnect 4 Meter>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Subwoofer Cables']], B00003CW9A, Monster Cable I201 Interlink 201 Subwoofer Cable 8.2 Feet>,4.69811320754717>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Subwoofer Cables']], B00003CW9D, Monster Cable Interlink 201 Subwoofer Interconnect 8 Meter (Discontinued by Manufacturer)>,4.42857142857143>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'Composite Video']], B00003CW9W, Monster Cable I403 AVP-1M A/V POD 403 (Highest Performance All-in-One Audio/RCA-Video Cable 1 m. set (3.28 ft.)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'Composite Video']], B00003CWER, Monster Cable MV3R-2M Monster Video 3 Double Shielded Video Cable with RCA Connectors (6.56 Feet) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'Composite Video']], B00003CWFF, Monster Cable SV1/100-2M Monster Standard Video/Interlink 100 A/V Kit (RCA) 2 m. set (6.56 ft.) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Digital Coaxial Cables']], B00004Z5KG, Belkin 6ft Thin Coax Enet BNCm/BNCm 50 OHM>,4.16666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Digital Coaxial Cables']], B00003CWA0, Monster IDL1002M Datalink 100 Digital Coaxial Cable (2 meters)>,4.125>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables', u'Digital Coaxial Cables']], B00003CWBG, Monster Cable J2MDTS3 Portable Minidisc to CD Player or A/V Receiver (Toslink Optical to Minijack Optical Connectors)>,3.24025974025974>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'S-Video Cables']], B00003CWAN, Monster J2 BSTVSV S-20 S-Video Cable (20 ft)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'S-Video Cables']], B00003CWBJ, Monster Cable J2 SVCR SM-3 S-VHS/Hi8 Stereo VCR to TV or A/V Receiver Hook-Up Kit Using S-Video (3 ft.)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables', u'S-Video Cables']], B00003CWBK, Monster Cable J2 SVCR SM-6 S-VHS/Hi8 Stereo VCR to TV or A/V Receiver Hook-Up Kit Using S-Video (6 ft.) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment', u'Splitters']], B00003CWG2, Monster Cable TGHZ-2RF Two Gigahertz Low-Loss RF Splitters For TV and Satellite 2-Way 2 Gigahertz RF Splitter (Discontinued by Manufacturer)>,4.31121239650651>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment', u'Splitters']], B00005T3EZ, RCA Matching Transformer>,4.18390804597701>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment', u'Splitters']], B00003CWFB, Monster Cable SS2RF Monster Standard RF Splitters For CATV Signals 2-Way RF Splitter (Discontinued by Manufacturer)>,4.18268398268398>
+<<[[u'Electronics', u'Television & Video', u'TV-DVD Combinations']], B00004YWGO, Toshiba 32A40 32&quot; TV>,5>
+<<[[u'Electronics', u'Television & Video', u'TV-DVD Combinations']], B00005BICW, Panasonic CT20DC50 20-Inch TV-DVD Combo>,5>
+<<[[u'Electronics', u'Television & Video', u'TV-DVD Combinations']], B000065UU3, Panasonic PV-27D52 27-Inch TV-DVD Combo>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'USB Port Cards']], B00004Z6KN, Belkin USB Internal Bus Port PCI Card 2USB Ports 12MBPS Plug and Play>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'USB Port Cards']], B00005113O, Macally PCI to USB Adapter Card for Mac>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'USB Port Cards']], B0000512WR, KeySpan 2-USB Port USB Internal Bus Port PCI Card>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Batteries']], B00004RBR6, RCA Lyra Replacement 4 Pac Nickel Metal Hydride Batteries>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Binoculars']], B000063EKB, Steiner 12x56 Nighthunter XP Binocular>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Binoculars']], B00005AXHW, Bushnell PermaFocus Wide Angle Porro Prism Binocular>,4.41809945420564>
+<<[[u'Electronics', u'Camera & Photo', u'Binoculars & Scopes', u'Binoculars']], B00004TBLW, Bushnell Falcon 7x35 Binoculars with Case>,4.38512636029666>
+<<[[u'Electronics', u'Camera & Photo', u'Flashes', u'Shoe Mount Flashes']], B00005BCUQ, Kodak Gear Automatic Flash>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Flashes', u'Shoe Mount Flashes']], B00005NPVU, Nikon SB-23 AF TTL Speedlight Flash>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Flashes', u'Shoe Mount Flashes']], B00005YWBU, Metz 34-CS2 Digital Mini Multi-Mode Flash w/Flash Bracket>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Modems']], B00004Z8H4, 3Com MHz 10/100 Lan Card Bus with Xjack Connector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Modems']], B00004TDN3, Handspring Wireline 33.6 Modem Springboard Module>,3.85714285714286>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Modems']], B000053W8H, Diamond Mako Travel Modem>,3.77777777777778>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'SLR Cameras']], B000067O89, Sigma SA-7 35mm SLR Camera with Compact 28-200mm Lens>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'SLR Cameras']], B00004S5H7, Konica Minolta 70-210mm f/4.5-5.6 II Zoom Lens for Maxxum Series SLR Cameras (Silver)>,3.83243243243243>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'SLR Cameras']], B00005NPVJ, Nikon DK16 Eyecup>,2.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage', u'Network Attached Storage']], B00004SB93, Cisco-Linksys EFG20 Etherfast 10/100 Gigadrive>,2.71428571428572>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'Powerline Network Adapters']], B00004SB95, Cisco-Linksys HPN200SK HomeLink Phoneline 10M Network-in-the-Box>,3.93>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Adapters', u'Powerline Network Adapters']], B0000513UU, Farallon HomeLINE PN744-SP Network Adapter>,3>
+<<[[u'Electronics', u'Television & Video']], B00005O7HF, Toshiba MV13K2 13 INCH 2 HD TV/VCR combo>,4>
+<<[[u'Electronics', u'Television & Video']], B00004SSR3, RCA L2501BC 2.5-Inch LCD Screen TV>,3.49864253393665>
+<<[[u'Electronics', u'Television & Video']], B00005BIB8, RCA F38310 38&quot; 16:9 HDTV with Built-In DirecTV and HDTV Receivers>,3.31022150678476>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Receivers']], B00005ABEN, RCA DWD490RE DIRECTV/UltimateTV Receiver (*See Restrictions)>,4.06426455026455>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Receivers']], B000050XL7, Philips DSR6000R DIRECTV Receiver with TiVo Service>,3.70676948038476>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Receivers']], B00005AAKN, Toshiba DST3000 HDTV/DIRECTV Receiver>,3.23743498331734>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'Single-Use Cameras']], B00005AQ53, 2 Kodak MAX 35mm Single Use Cameras with Flash>,3.96464646464646>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'Single-Use Cameras']], B00004SU73, Kodak 35mm Single Use Camera w/ Flash (Packaging May Vary)>,3.77777777777778>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'Single-Use Cameras']], B000066HUC, Kodak MAX HQ One Time Use Camera (2 Pack)>,3.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Remote Controls']], B00004SYBD, Meade 495 Autostar for DS Telescope>,4.85714285714286>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Remote Controls']], B00004U5VM, Pentax Wireless Remote Control C>,4.50680272108844>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Remote Controls']], B00005QVV1, Meade 494 Autostar Telescope Controller>,2>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products']], B00004WHIN, Socket Communications CF Rugged DPC for Samsung SCH-850/2000/3500/6100/8500 Handsets>,4.87878787878788>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products']], B00004T70T, Socket Communications CF Rugged DPC for Qualcomm 860/1960/2760 Handsets>,4.38888888888889>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products']], B00005ICD2, U.S. Robotics USR6003 SoundLink Wireless Audio Delivery System>,3.76512440191387>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories']], B00004TDN4, Handspring Backup Springboard Module>,4.72389795389795>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories']], B00005AG2G, Compaq iPAQ Color Style Pack (Purple, Orange, Gray)>,3.5>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories']], B00005AKV6, Compaq iPAQ Executive Leather Style Pack>,2.91038961038961>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'Instant Cameras']], B00004TC8G, I-Zone Pocket Film: Non-Sticky>,1>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Video', u'In-Visor Video']], B00004TDN7, Eyemodule Digital Camera Springboard Module for Handspring Visor>,3.87816612971291>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards']], B00005OCX0, Handspring 8mb Flash Springboard Module for all Visor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards']], B000063ELI, PalmOne 32MB Expansion Card (m125, m130, i705 &amp; m500 series)>,4.64957264957265>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Memory Cards']], B0000511L5, Olympus 64 MB SmartMedia Card>,4.45831520951138>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cleaning Equipment', u'Cleaning Kits']], B00004TJ0L, Sima Lens Pen>,4.23198208130296>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage']], B00005145S, SimpleTech STI-CFAD/128A 128MB CompactFlash Card &amp; PC Card Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage']], B0000514AW, Syquest SparQ 1.0GB External Removable Cartridge Hard Drive for PC Parallel Port>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Data Storage']], B00004TS1D, Castlewood Systems ORB2UE01 2.2 GB External USB Removable Media Drive>,3.65714285714286>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Presentation Supplies', u'Binding Machine Supplies']], B00004TS6W, Fellowes Plastic Binding Combs, Round Back, 5/16&quot;, 40 Sheet Capacity, Black, 25 Pack (52321)>,4.66666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Presentation Supplies', u'Binding Machine Supplies']], B00004TS73, Fellowes Plastic Binding Combs, Round Back, 1/2&quot;, 90 Sheet Capacity, White, 25 Pack (52332)>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Underwater Photography']], B00004TTHA, SeaLife 3X Close Up Lens and Underwater Filter>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Calculator Accessories']], B00004TV8T, HP Connectivity Kit for HP Calculators 48G, 48G+, 48GX, and 49G>,4.00658008658009>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases']], B000067O7Z, Tamrac 527401 Expedition 4 Photo Backpack (Black)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases']], B00004TX6I, Lowepro D-Res 4 Memory Wallet>,4.27777777777778>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases']], B000067O85, Tamrac 574501 Velocity 5 Photo Hip Pack Convertible (Black)>,4.23076923076923>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tabletop & Travel Tripods']], B000063W8S, Sony VCTTK1 Pocket Tripod for Sony Camcorders>,4.65384615384615>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tabletop & Travel Tripods']], B00004TYJS, Hakuba FP-L1 Flat Pod Photographic/Video Tripod>,4.48039215686275>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Tabletop & Travel Tripods']], B00004TY7O, Velbon Dual Function Mini Photographic/Video Tripod>,4.13293885601578>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Monopods']], B00004TYBO, Velbon UP-4DXII Deluxe Photographic/Video Unipod>,4.85185185185185>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Monopods']], B00004TY7W, Velbon UP-43 Deluxe Professional Compact Photographic/Video Unipod>,4.5>
+<<[[u'Electronics', u'Camera & Photo', u'Tripods & Monopods', u'Monopods']], B00004TY7Q, Velbon UP-4000 Photographic/Video Unipod>,4.27428180574555>
+<<[[u'Electronics', u'Camera & Photo']], B00005214A, Kodak Slide Projection FF Lens, 100 to 150 mm f/3.5>,5>
+<<[[u'Electronics', u'Camera & Photo']], B00005NPVN, Nikon MB-15 High Power Pack for F100>,5>
+<<[[u'Electronics', u'Camera & Photo']], B000067O7S, Tamrac MXS536701 Memory &amp; Battery Management Wallet 2 (Black)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Turntables']], B00004U89U, Sanus Systems TV13 TV Turntable (Black, 13 Inch)>,4.875>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Turntables']], B00004U89X, SANUS ACCURATE TVTURNTABLES FOR 27IN BLK TURNTABLES FOR 27in BLK>,4.86324786324786>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'TV Accessories & Parts', u'TV Turntables']], B00004U89W, Sanus Systems TV32 TV Turntable (Black, 32 Inch)>,4.82222222222222>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets'], [u'Electronics', u'Computers & Accessories'], [u'Office Products', u'Office Electronics', u'Telephones & Accessories', u'Corded Telephones']], B00004U8K4, Plantronics T20 Corded 2-Line Convertible Headset Telephone>,3.12626262626263>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Speaker Parts & Components', u'Port Tubes']], B00004U8RJ, Canon BC-32E Photo InkJet Cartridge>,3.71428571428571>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Recorders']], B00004UE2J, Philips HDR212 TiVo 20 Hour Digital Video Recorder>,3.82098969890645>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Recorders']], B00005R867, Panasonic DMR-E10 Progressive-Scan DVD-RAM Recorder and Player>,3.7360937912662>
+<<[[u'Electronics', u'Television & Video', u'DVD Players & Recorders', u'DVD Recorders']], B00005QI5G, Panasonic DMR-E20S DVD Recorder and Player, Silver>,3.27711244217077>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cables & Cords']], B00005ABA5, Pentax F5P 9.5-Foot Extension Cord for Pentax Flash Units>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cables & Cords']], B00004UF7U, Kodak Serial Interface Cable for Windows Systems for DC20/25/200/210/215 Cameras>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cables & Cords']], B00005QZ0D, Ambico D-0920 Digital AC Adapter>,3.85714285714286>
+<<[[u'Electronics', u'Portable Audio & Video']], B00005AYAA, Toshiba 20AF41 20&quot; Flat Screen TV>,4.74125874125874>
+<<[[u'Electronics', u'Portable Audio & Video']], B00004Z4HP, Jensen Matrix Wireless Internet Audio Transmitter>,4.46153846153846>
+<<[[u'Electronics', u'Portable Audio & Video']], B00004UF8Z, Panasonic CT-32SF37 32&quot; 'Superflat' Flat Screen TV>,4.24643393393393>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Eyepieces']], B0000665VE, Celestron Ultima Series 12.5MM Ocular>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Eyepieces']], B00004VUMC, Meade Plossl 6mm (1.25&quot;)>,4.42307692307693>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Eyepieces']], B00004VUMD, Meade WA 18mm Eyepiece (1.25&quot;)>,3.94565217391304>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Filters']], B00004VVGH, Meade 3200 Color Filter Set>,4.95959595959596>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Telescope & Microscope Accessories', u'Telescope Accessories', u'Dew Caps']], B00004VVGZ, Meade 670 Dew Shield>,4>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Fixed-mount CB Radios']], B00004VXO1, Uniden PC78XL 40 Channel CB Radio with Front Mic>,4.53968253968254>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Fixed-mount CB Radios']], B00004VXO0, Uniden PC68LTW 40 Channel CB Radio with Front Mic>,4.50544662309368>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios', u'CB Radios & Scanners', u'Fixed-mount CB Radios']], B00004VXO5, Uniden Washington 40 Channel CB AM/SSB Base Station (Discontinued by Manufacturer)>,3.70833333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Battery Chargers']], B00004W4XL, Rayovac Rechargeable Battery Charger for 4 Aa or 4 AAA>,3.95906618633891>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Shutter Release Cords']], B00005ABBA, Pentax Cable Switch F with 3.5ft electronic shutter release, for 645N/PZ's/ZX's/SF's>,4.5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Shutter Release Cords']], B00004WCCQ, Canon RC-5 Wireless Remote Controller for Canon XT/XTi, XSi, 7D and T1i Digital SLR Cameras>,4.25054656186932>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Battery Grips']], B00005NPNY, Canon BG-ED3, Battery Grip for EOS 10D, D30 and D60>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Battery Grips']], B00005NPVL, Nikon Vertical Grip for the N90S>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories', u'Battery Grips']], B000050MNA, Canon BG-ED3 Battery Grip For D-30>,4.74545454545455>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Binocular Accessories']], B00004WCFT, Canon Eye Cup Eb>,4.26190476190476>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers', u'Batteries']], B00004WCI3, Canon SLR Custom Accessory Pack S1>,3.16666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Flashes', u'Macro & Ringlight Flashes']], B00004WCI7, Canon MR-14EX Macro Ring Lite for Canon Digital SLR Cameras>,4.12306510642958>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Remote Controls']], B00005LE8N, Olympus RC-200 Remote Control for Point and Shoot Cameras>,4.75>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Remote Controls']], B00004WCIC, Canon RC-1 Wireless Remote Control for Select DSLR Cameras>,4.40562011889897>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Remote Controls']], B00004WCID, Canon Remote Switch RS60 E3>,4.24817580472603>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Extension Tubes']], B00004WCIF, Canon EF25 Extension Tube>,3>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Stamp Creation Systems']], B00004WFZU, Brother SC-2000 Professional Stamp Creation System>,4.02777777777778>
+<<[[u'Electronics', u'Computers & Accessories', u'PDAs, Handhelds & Accessories'], [u'Office Products', u'Office Electronics']], B00004WGTA, BlackBerry Wireless Handhelds 957 BlackBerry Internet Edition - 386 RAM: 512 KB - ROM: 5 MB>,3.90582874599115>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Earpads']], B00004WINU, Jabra EarGels, Multi-Colored>,3>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cable Ties']], B00005T3ZY, Belkin 7.5-Inch Cable Ties - Multicolored (52 Pieces)>,4.428125>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cable Ties']], B00004WLJ5, Gardner Bender 46-310 Electrical 11-Inch Cable Ties, 100-Pack, Natural>,4.35714285714286>
+<<[[u'Electronics', u'Accessories & Supplies', u'Cord Management', u'Cable Ties']], B00004WLJ7, GB 46-315 Electrical 14-Inch Cable Ties, Natural, 100-Pack>,4.35557184750733>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Antennas']], B00004WYQU, Andrew Universal Glass Mount Car Antenna>,3>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Audio & Video Accessories', u'Antennas']], B00005LEQ8, Olympus IS-30 (IS300) Date>,3>
+<<[[u'Electronics', u'Camera & Photo', u'Video Surveillance', u'Surveillance Cameras']], B00005R8TA, Sylvania SY4225 2.4 GHz Wireless B/W Video Security System>,4.07638888888889>
+<<[[u'Electronics', u'Camera & Photo', u'Video Surveillance', u'Surveillance Cameras']], B0000501EO, D-Link DSC-350 8MB Dual Mode Digital Web Camera>,3.49350649350649>
+<<[[u'Electronics', u'Camera & Photo', u'Video Surveillance', u'Surveillance Cameras']], B000067JZF, D-Link DCS-1000W 802.11b Wireless Webcam>,3.46245614035088>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards']], B00004Z885, Hewlett Packard Jetdirect Eio Connectivity Card Usb  Ser  Localtalk>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards']], B00004XRDS, SIIG CyberSerial Dual Card>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards']], B00004Y2P5, ADS Technologies API-800 Pyro Drive Kit>,3.04444444444444>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'Lighting Controls & Modifiers', u'Filters']], B00004XSAB, Hemco LC06CLC Automatic Photo Control>,2.625>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'SCSI Port Cards']], B00004Y287, OrangeLink Plus - Storage controller - 1 Channel - Ultra2 Wide SCSI - 80 MBps - PCI>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'SCSI Port Cards']], B0000513EK, Adaptec 2940U USCSI PCI 1-Channel NT Net Ux EZ SCSIZ Kit>,4.6>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'SCSI Port Cards']], B000062STN, Adaptec AUA-5100 USB 2.0 6 Port (5 external, 1 internal) Card>,4.53514802427846>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Interconnect Cables']], B00004Y2XM, Monster Cable I401XLN 4C-4M Interlink 401XLN (4 Channel) Car Audio Interconnect With Multiple Gauge Wire Networks 4 m. pair (13.12 ft.) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Interconnect Cables']], B00004Y2XK, Monster Cable I401XLN 4C-3M Interlink 401XLN (4 Channel) Car Audio Interconnect With Multiple Gauge Wire Networks (9.84 ft.) (Discontinued by Manufacturer)>,4.5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Interconnect Cables']], B00004Y2Y9, MONSTER CABLE Car Audio Interconnect Cables  1 m. pair - 3.28 ft.(IMXLN 2C-1M)>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation']], B00004Y2Y5, Monster Cable IMXLN 4C-5M Interlink MicroXLN (4 Channel)  Car Audio Ultra Compact Design Interconnect 5 m. pair - 16.40 ft.>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Power Strips']], B0000512LA, Tripp Lite LC1200 Line Conditioner 1200W AVR Surge 120V 10A 60Hz 4 Outlet 7-Feet Cord>,3.94979434775353>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Power Strips']], B00004Y2ZF, Monster HTS 3500 MKII Reference PowerCenter (Discontinued by Manufacturer)>,3.31919779187221>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Power-Cable Terminals']], B00004Y3S2, MONSTER CABLE Monster Power Cable Connectors - Monster Car Power (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment', u'Mounting Accessories', u'Satellite Finders']], B00004Y3U6, Monster Cable MSDSF1 Monster Satellite Digital Satellite Finder LED Meter for DSS Installation (Discontinued by Manufacturer)>,1.21052631578947>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment']], B00005T3MQ, RCA Wireless Phone Jack For DirecTV>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment']], B00005T3UR, Terk Weatherproof Splitter 2-Way (Discontinued by Manufacturer)>,4.84>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Satellite TV Equipment']], B00004Y3U7, Monster Cable MS ILA-1 Monster Satellite In-Line Amp In-Line Amp (Discontinued by Manufacturer)>,1>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Speaker Parts & Components', u'Castors']], B00004Y3UX, Monster Cable SS4 Multi-Speaker Selector>,3.85776901161517>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio']], B000066R6T, RCA BLV552 Mobile LCD Video Cassette Player>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio']], B00004YJZ0, Wilson/Power Brands WCDE40CKR 40 Second ESP Sports Digital CD Player with Car Kit (Red)>,1>
+<<[[u'Electronics', u'Camera & Photo', u'Underwater Photography', u'Housings']], B00004YKDU, Canon All Weather Case AW-PS200 for Powershot S100 &amp; S110 Digital Cameras>,3.88571428571429>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories']], B00004YMCA, Escort Inc. 79-000040-01 Coiled SmartCord, Red display>,4.63120879120879>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories']], B00005QXYF, Recoton SW1850 Digital Audio Speaker Wire, 18 AWG, (50 feet) (Discontinued by Manufacturer)>,3.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'DLT Cleaning Cartridges']], B00004Z5VN, Hewlett Packard Dds Tape Cleaning Cartridge (1-Pack, 50 Cleanings) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'DLT Cleaning Cartridges']], B00004Z70Q, Maxell 183770 1/2&quot; Tape Cartridge Cleaning>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'DLT Cleaning Cartridges']], B00004Z5L9, Fuji 4MM Cleaning Tape For DDS Drives>,4.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras']], B00005NPWD, Nikon DK-10 Small Replacement Rubber Eyecup for D1>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras']], B00004Z61H, Polaroid 600 Film Single Pack>,3.12571254064595>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras']], B00005QJ15, Type 600 Write-On Single Pack Film>,3>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Presentation Supplies', u'Overhead Supplies']], B00004Z61W, 3M FXL Lamp for 9200/9600/9700/9550/9075 Overhead Projectors>,4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RW Discs']], B00005TZ9K, Fujifilm 4.7 GB DVD-RAM (1-Pack)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RW Discs']], B000067NLB, TDK DVD-RW Media 4.7GB Rewritable (1-Pack)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-RW Discs']], B00004Z6O9, Panasonic 5.2GB Double-Sided DVD RAM Type-1 (Discontinued by Manufacturer)>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Numeric Keypads']], B00004Z7F0, Lenovo 33L3225 ThinkPad Numeric Keypad For Thinkpad USB>,4.25333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Input Devices', u'Numeric Keypads']], B000065DQ0, Micro Innovations KP27B Numeric Pro Keypad (USB)>,1.8>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cables & Interconnects', u'Modem Cables'], [u'Electronics', u'Computers & Accessories', u'Computer Components', u'Internal Modems'], [u'Electronics', u'Computers & Accessories', u'Networking Products', u'Modems']], B00004Z7GG, U.S. Robotics MHz Cell Cable for Nokia 5120/5160/6120/6160/6161/6162>,1.66666666666667>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets'], [u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones']], B00004Z7I2, Plantronics Encore Monaural Headset Includes 1 Extra Voice Tube>,3.83333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Headsets'], [u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Headsets & Microphones']], B00004Z7S4, Plantronics H101 Encore Headset>,3.44444444444445>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Car Stereo Receivers'], [u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Marine Stereos']], B00004Z7QT, Plantronics Encore H91N Monaural Headset with Noise Canceling Microphone>,3.6031746031746>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Power Supplies']], B000063WPV, Antec PP352X ATX 350W Power Supply>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Power Supplies']], B0000514M8, Tripp Lite LCR2400 Line Conditioner 2400W AVR Surge 120V 20A 60Hz 14 Outlet 12-Feet Cd>,4.81349206349206>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Power Supplies']], B0000513FN, StarTech.com 250 Watt ATX Replacement Computer PC Power Supply - ATXPOWER250>,4.41954022988506>
+<<[[u'Electronics', u'Accessories & Supplies', u'Mounts', u'Computer & Monitor Mounts']], B00004Z83N, Kensington Premium Articulating Arm and Platform For Keyboards>,3.4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Projection Screens']], B00004Z8YQ, Proxima 50-Inch Tabletop Projection TV>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories']], B00004ZAV6, Xircom SpringPort Modem 56 GlobalACCESS Springboard Module for Handspring Visor>,2.95784057212629>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Polarizing Filters']], B00004ZDC0, Cokin P171 Varicolor Filter with Protective Case (Red/Blue)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Polarizing Filters']], B00004ZDBV, Cokin P160 Linear Polarizer Filter with Protective Case>,4.5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Polarizing Filters']], B00004ZC8Y, Tiffen 46mm Circular Polarizer>,4.23980840102922>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Caps']], B0000515KM, Olympus LC-41, 41mm Lens Cap>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Caps']], B00005NPWJ, Nikon LF-1 Rear Lens Caps>,4.69473684210526>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Caps']], B00005NPWI, NIKON BF-1A SLR Body Cap for Lens Mount>,4.60133333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Effects Filters']], B00004ZCAM, Tiffen 52mm 82A Filter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Effects Filters']], B00004ZDC3, Cokin P185 Radial Zoom Filter with Protective Case>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Effects Filters']], B00004ZDCD, Cokin P202 Multi-Image 7 Filter in Protective Case>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Graduated Color Filters']], B00004ZC9K, Tiffen 49mm Blue Graduated Filter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Graduated Color Filters']], B00004ZCDW, Tiffen 58mm Graduated Sunrise Filter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Graduated Color Filters']], B00004ZCGD, Tiffen 67mm Graduated Sunrise Filter>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Skylight & UV Filters']], B00004ZCA2, Tiffen 49mm Rubber Lens Shade>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Skylight & UV Filters']], B00004ZCEN, Tiffen 62mm Metal Lens Shade>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Skylight & UV Filters']], B00004ZCEX, Tiffen 62mm Rubber Lens Shade>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Filter Sets']], B00004ZCK2, Tiffen 49mm Video Twin Pack Filters>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Filter Sets']], B00005049A, Cokin 55mm Intro Kits II>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Filter Sets']], B00005061N, Tiffen 77mm Deluxe Enhancing Filter Kit>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials']], B00004ZCMW, Kodak Smart Picture Frame>,3.46040617664753>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials']], B000053HMR, Kensington Digital Photo Album Plus>,3.18571428571429>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials']], B000053HMQ, Kensington Digital Photo Album>,2.22703818369453>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Shoe Mounts']], B00005LEP9, Hama HA-6951 Hot Shoe Off Camera Flash Adapter 1 for Cameras Without PC Socket Hot Shoe to PC>,4.35>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Shoe Mounts']], B00004ZCOR, Hakuba Ball Socket Flash Mount>,1>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Binocular, Camera & Camcorder Straps']], B00005NPWH, Nikon AN-6Y>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Binocular, Camera & Camcorder Straps']], B00005YV4Q, Nikon AN-4B Camera Neck Strap>,4.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Bags & Cases', u'Binocular, Camera & Camcorder Straps']], B00004ZCPH, Hakuba Camera Grip>,4.08015151515152>
+<<[[u'Electronics', u'Camera & Photo', u'Projectors', u'Slide Projectors']], B00005213U, Kodak BC4401 Carousel 4400 Projector>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Projectors', u'Slide Projectors']], B00004ZCRA, Hakuba M70 Handheld Dual Slide Viewer>,4.66666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Projectors', u'Slide Projectors']], B00005217K, Kodak Ektagraphic Universal Slide Tray>,4.53333333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cleaning Equipment', u'Brushes']], B00004ZCTM, Hakuba Large High Volume Blower Brush>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cleaning Equipment', u'Brushes']], B00004ZCTN, Hakuba Medium High Volume Blower Brush>,3>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Cleaning Equipment', u'Brushes']], B00004ZCTE, Hakuba Large Blower Brush>,1>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories']], B00004ZDD1, Cokin P674 Center Spot Fluo Graduated Filter in a Protective Case (Blue/Yellow)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories']], B00004ZDD0, Cokin P673 Center Spot Fluo Graduated Filter in a Protective Case (Yellow/Pink)>,4.33333333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories']], B00004ZDD4, Cokin A to P Adapter>,3.5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Filters & Accessories', u'Filter Accessories', u'Step-Up Rings']], B00004ZDD7, Cokin P308 P Series Coupling Ring and Filter Holder>,4.55555555555556>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Boxes']], B000050495, Cokin A Series Storage Box>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Boxes']], B00004ZDD8, Cokin P Series Empty Storage Box for 10 P Series Filters>,3>
+<<[[u'Electronics', u'Camera & Photo', u'Video Surveillance', u'Surveillance Systems']], B0000501CU, Sylvania SY2500 2.4 GHz Wireless B/W Video Security System>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Film SLR Lenses']], B00005044C, Sigma 28-135mm f/3.8-5.6 Aspherical IF Macro Lens for Nikon SLR Cameras>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Film SLR Lenses']], B00005ABC1, Pentax SMCPFA 100-300mm f/4.7-5.8 SLR Camera Lens>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camera Lenses', u'Film SLR Lenses']], B00005LEOI, Nikon 180mm f/2.8D ED-IF AF Nikkor Lens for Nikon Digital SLR Cameras>,4.43928100884623>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'Case Fans']], B000050ZSV, Startech P2 Heatsink Ballbearing Fan Secc2 CPU>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'Case Fans']], B000050ZT9, StarTech.com 92x25mm Dual Ball Bearing Computer Case Fan with LP4 Connector FANBOX92 (Black)>,4.5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'Case Fans']], B00005108J, Antec Advance Accent Lighting Red USB-powered 6 LED Strip>,4.45454545454545>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'CPU Cooling Fans']], B000050ZT2, Startech Heavy Duty Pentium/Celeron CPU Cooler Fan (Socket 7/370)>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'CPU Cooling Fans']], B000051299, Antec Cyclone Blower, Expansion Slot Cooling Fan>,3.82975438968262>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Distribution', u'Distribution Panels']], B000050ZTF, StarTech.com VGA Video Extender over Cat5 ST121 Series - Up to 500 feet - 150m - VGA over Cat 5 Extender - 2 Local and 2 Remote>,4.35714285714286>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling']], B000050ZUQ, StarTech.com 3.5-Inch Hard Drive Bracket Kit for 5.25-Inch Front Bay with Dual Fan CPU Cooler - FanDRIVE2 (Beige)>,3.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Line Conditioners']], B00005102E, Panamax Max 1000+ 8-Outlet Strip 10Ft Cord Lifetime Warranty (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Batteries, Chargers & Accessories', u'Line Conditioners']], B00005125Z, Tripp Lite 4-Outlet 600W 87-140V AVR 120V 60Hz UL List Line Conditioner>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Skins & Decals']], B0000510FM, Vanguard Designer 81 Aluminum Computer Case>,3.75>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Transceivers']], B0000510LT, Allied Telesyn Centrecom 210TS Twisted Pair Micro Transceiver with 4 LEDs Slim>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Transceivers']], B0000514XJ, Cisco WS-G5484 1000BASE-SX Fiber GBIC Module>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Transceivers']], B000067OK3, Allied Telesyn 1000bt To 1000sx/sc Media Converter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Network Antennas']], B0000510SM, Cisco AIR-ANT4941 Aironet 2.2dBi 2.4GHz Dipole Black Antenna (Standard Rubber Duck) with RP-TNC Connector>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'I/O Port Cards', u'Serial Port Cards']], B0000510SW, StarTech.com 2S1P PCI Serial Parallel Combo Card with 16550 UART PCI2S1P>,4.33333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters', u'Parallel Adapters']], B0000510T7, C2G / Cables to Go 16898 USB IEEE-1284 Parallel Printer Adapter Cable, Beige 6 Feet>,4.09739983169973>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Camera Brackets']], B00005218U, Nikon SK-E900 External Multi-Flash Bracket Unit for Nikon 4500 Digital Camera>,4.7433831990794>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Camera Brackets']], B0000511A0, Datastor Bracket Kit Universal 3.5In HD To 5.25In Bay>,4.33333333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Camera Brackets']], B0000510VF, Olympus FL-BK01 Flash Bracket>,3.76665187814256>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Computer Cable Adapters', u'Serial Adapters']], B00005117F, ATEN USB to PDA/Serial (DB9) Adapter w/ PC &amp; Mac Drivers UC232A>,4.92857142857143>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Computer Cases']], B0000513X3, Antec OEM 13-Bay ATX Value Line Full Tower Case with 300W Power Supply (Beige)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Computer Cases']], B000063WPQ, Antec PS Performance SX630 8-Bay Mini Tower Case>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Computer Cases']], B000063WPS, Antec PS Performance SX1030B 10-Bay Workstation (Black)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Hard Drive Enclosures']], B0000511OH, Datastor Bracket Kit Universal 3.5In HD To 5.25In Bay with Blk&amp;Gry Fp S Ledkit>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Hard Drive Enclosures']], B000062TNZ, ADS Technology USB 2.0 External Hard Drive Kit (USBX-804)>,4.4845041322314>
+<<[[u'Electronics', u'Computers & Accessories', u'Computer Components', u'Fans & Cooling', u'Heatsinks']], B0000512R7, StarTech.com 10g Silicone Thermal CPU Paste Tube HEATGREASE10>,2.6>
+<<[[u'Electronics', u'Accessories & Supplies', u'Office Electronics Accessories', u'Presentation Supplies']], B0000513KE, KeySpan Digital Media Remote Control USB To Ir F/ Mac Multimedia Device>,3.56785714285714>
+<<[[u'Electronics', u'Computers & Accessories', u'Monitors']], B0000515H7, Trillium 21In/20.0V 21MM 1800X1440 80Hz 445Xpro Tco 95 B-Stock>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Monitors']], B00005QJDE, Microtek C586 15&quot; Flat Panel LCD Monitor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Monitors']], B00005NKXC, Apple M7649Zm/A  Studio Display 17&quot; LCD Monitor>,4.22002442002442>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Wireless Access Points']], B000063XJ9, D-Link DWL-P100 Power Over Ethernet Adapter>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Wireless Access Points']], B000063XJ4, D-Link DWL-5000AP 802.11a Wireless Air Pro Access Point>,4.33333333333333>
+<<[[u'Electronics', u'Computers & Accessories', u'Networking Products', u'Wireless Access Points']], B00005RT00, SMC2655W 802.11b 11Mbps Wireless Access Point>,4.19230769230769>
+<<[[u'Electronics', u'Camera & Photo', u'Digital Cameras']], B0000520I5, Kodak PalmPix Digital Camera for Palm m100 series Handhelds>,3.08098290598291>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Darkroom Supplies', u'Film Processing Equipment']], B0000520IJ, Kodak ELITE Chrome 100 Speed 36 Exposure 35mm Slide Film>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Video Projector Accessories', u'Projector Bags & Cases', u'Projector Cases']], B00005217G, Kodak E/B596C Carousel&iquest; Projector Case>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Boating GPS Chartplotters']], B00005B8MI, Garmin GPSMAP 168 Sounder 4.2-Inch Waterproof Marine GPS and Chartplotter with Sounder>,4.83333333333333>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Boating GPS Chartplotters']], B00005B8MG, Garmin GPSMAP 162 4.2-Inch Waterproof Marine GPS and Chartplotter>,4.5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Boating GPS Chartplotters']], B000059ZZF, Magellan 330M 2.2 x 1.33-Inch Water Resistant Marine GPS>,4.09372294372294>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Digital Picture Frames']], B00005B4BW, Ceiva Digital Photo Receiver Model LF2000>,3.20728682930077>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio', u'Storage & Presentation Materials', u'Digital Picture Frames']], B00005A48E, Polaroid Digital Photo Frame>,2.11174371244794>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers']], B00005LJ8F, Minolta RC-3 Wireless Remote Control for the Dimage F100, F300 &amp; S414 Digital Cameras>,4.5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Batteries & Chargers']], B00005AB9R, Pentax Remote Control F for Pentax Digital Cameras>,4.13594852052187>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'APS Cameras']], B00005AVF2, Kodak Advantix C450 APS Camera>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'APS Cameras']], B000067BEO, Fujifilm Q1 24mm APS Camera (Royal Blue)>,3.40079365079365>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Fishfinders']], B00005RCWD, Humminbird 300TX 3.7-Inch Waterproof Fishfinder>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Fishfinders']], B00005B8MK, Garmin Fishfinder 100 Blue 3.9-Inch Waterproof Fishfinder>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Marine Electronics', u'Fishfinders']], B00005RCUP, Humminbird Piranha 1 4-Inch Waterproof Fishfinder>,3.33333333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Professional Video Accessories', u'Microphones']], B00005LD4W, Canon USA BP-512 Directional Stereo Mic DM 50 for Camcorders with Advanced Access Shoe>,3.87266083623978>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Professional Video Accessories', u'Microphones']], B00005T3BZ, Sony ECMHS1 Video Microphone with Zoom for DCRHC 40/65/85 Camcorders>,3.45724250174378>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Professional Video Accessories', u'Microphones']], B00005BYIZ, The Singing Machine SMM-200 - Microphone>,2.6>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Receivers & Amplifiers', u'Component Amplifiers']], B00005I9PT, Yamaha AP-U70 CAVIT External Audio Soundboard with Integrated Amplifier (Discontinued by Manufacturer)>,3.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Speaker Accessories']], B00005I9QH, Acoustic Research AR1108 8-Position Speaker Selection system>,4>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptops']], B00005NBGV, IBM ThinkPad A22M Laptop (1-GHz Pentium III, 128 MB RAM, 30 GB hard drive)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptops']], B00005OBP1, Dell Latitude XPI CD M166ST Notebook (166-MHz Pentium MX, 32 MB RAM, 2.1 GB hard drive)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptops']], B00005QZ6D, Dell Latitude CPi 266XT Notebook  (266-MHz Pentium II, 128 MB RAM, 4.1 GB hard drive)>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Adapter Rings']], B00005IBT9, Tiffen MegaPlus 43mm-49mm Step-up Adapter Ring>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Adapter Rings']], B00005IBTA, Tiffen MegaPlus 37mm-43mm Adapter Ring>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Adapter Rings']], B00005IBTD, Tiffen MegaPlus 49mm-55mm Adapter Ring>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Hoods']], B00005LELA, NIKON HN3 Lens Hood>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Hoods']], B00005LE7M, NIKON Hood for 80-200mm Lenses>,4.54065934065934>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Lens Accessories', u'Lens Hoods']], B00005LELD, NIKON Rubber Hood for 50mm Lens>,4.19988242210464>
+<<[[u'Electronics', u'Portable Audio & Video', u'Radios', u'Weather Radios']], B00005KB2N, Sima First Alert NOAA WX-17 Portable Emergency AM/FM Radio>,3.5590318627451>
+<<[[u'Electronics', u'Camera & Photo', u'Lenses', u'Camcorder Lenses']], B00005LD4F, Canon Manual Zoom Lens 14X for XL1 &amp; XL2 Series Camcorders>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'On-Camera Video Lights']], B00005LEMW, Canon VL 10Li - Video light - black - plastic>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'On-Camera Video Lights']], B00005LD4T, Canon Video Light for Advanced Accessory Shoe>,4.09597283357788>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'On-Camera Video Lights']], B00005T3C0, Sony HVLFDH3 Video Light and Flash with Rotating Head (DCRPC101 and DCRPC105 Camcorders)>,3.68333333333333>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Flash Accessories', u'Sync & PC Cords']], B00005LE7L, Nikon SC-17 TTL Sync Ext Cord>,4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Viewfinders']], B00005LELT, Nikon Type K3 Matte Fresnel Screen for FM3A>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Speakers', u'Coaxial Speakers']], B000060NXN, Legacy LS462MK 240 Watt 4'' x 6'' Two-Way Speakers>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Speakers', u'Coaxial Speakers']], B00005Y6P5, Pyramid 4477 4-Inch 3-Way Chrome Speakers>,4.33333333333333>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Speakers', u'Coaxial Speakers']], B000067INH, Pioneer TS-A4103 4 x 10 2-way Car Speakers (Pair)>,4.01282051282051>
+<<[[u'Electronics', u'Camera & Photo', u'Film Photography', u'Film Cameras', u'Point & Shoot Film Cameras']], B00005MO4L, Pentax 10049 IQ Zoom 140 Date Camera>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios']], B00005O7EP, Audiovox FR2302 2-Mile 14-Channel FRS Two-Way Radio (Pair)>,5>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios']], B00005N5WV, Cobra 25NW Nightwatch CB Radio>,4.3>
+<<[[u'Electronics', u'Portable Audio & Video', u'CB & Two-Way Radios']], B00005YXCV, Motorola TalkAbout T5420 2-Mile 14-Channel FRS Two-Way Radios (Pair)>,3.62237762237762>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Camcorder Accessories', u'Screen Protector Foils']], B00005NDKU, Digital Head Cleaner>,4.26315789473684>
+<<[[u'Electronics', u'Accessories & Supplies', u'Telephone Accessories', u'Phone Cards']], B00005NI5V, AT&amp;T Prepaid $100 Refill Card (Mail delivery)>,2.1989247311828>
+<<[[u'Electronics', u'Computers & Accessories', u'Desktops']], B00005S8K2, Dell Optiplex GX1 Desktop (400-MHz Pentium II, 128 MB RAM, 6.4 GB hard drive)>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Desktops']], B00005TQLS, Apple Power Mac Desktop (867-MHz PowerPC G4, 128 MB RAM, 60 GB hard drive) + Apple 15&quot; TFT Flat Panel Studio Display Monitor>,5>
+<<[[u'Electronics', u'Computers & Accessories', u'Desktops']], B00005V5ZZ, Compaq Deskpro EN Desktop (400-MHz Pentium II, 64 MB RAM, 6.4 GB hard drive)>,5>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television', u'Satellite Dishes']], B00005O7CR, RCA DSA200RW 18&quot; Dual LNB Satellite Dish Antenna>,4.38461538461539>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Video', u'In-Dash DVD & Video Receivers']], B00005OBF2, Garmin GPS V Map 2.2-Inch Portable GPS Navigator>,4.19313093766885>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Changers']], B00005OOJZ, Pioneer JDM300 6 Disc Magazine for PDM427>,4.8>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Changers']], B00005PJTZ, JVC XL R5000 - CD changer / CD recorder - golden>,3.83333333333333>
+<<[[u'Electronics', u'Portable Audio & Video', u'Microcassette Recorders']], B00005PJY0, Panasonic Microcassette MC-60 Tape - 3-Pack (RT-603MC)>,4>
+<<[[u'Electronics', u'Portable Audio & Video', u'Microcassette Recorders']], B00005UK94, Sony TCM-16 Pressman Portable Cassette Recorder>,2.86666666666667>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Darkroom Supplies']], B00005QF9T, Slide Viewer from HAMA Products w/Battery Powered Illumination>,2.75>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Tripod & Monopod Accessories']], B00005QFAF, Hama Double Bubble Level>,3.74730158730159>
+<<[[u'Electronics', u'Portable Audio & Video', u'Portable DVD Players']], B00005RD8O, Axion ACN-5402 3.2-Inch LCD Portable TV>,2.89153439153439>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories', u'MP3 Player Accessories', u'Armbands']], B00005T3A0, Tune Belt Original Cassette Player Carrier>,4.27950310559006>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories']], B00005T3B3, Maxell DVDRAM-28MX 3 DVD-R &amp; DVD-RAM Square Cartridges for Hitachi DVD Camcorders>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Digital Camera Accessories']], B000063XJ2, Sony BC-VC10 InfoLithium C-Series Dual Battery Charger>,4.95555555555555>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Turntables']], B00005T3FF, Recoton SP-2 Stereo Phonograph Preamplifier (Discontinued by Manufacturer)>,4.58888888888889>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'RF Modulators']], B00005T3FO, Recoton DVD647 RF Modulator (Discontinued by Manufacturer)>,4.09732296005881>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'RF Modulators']], B0000649F1, Jensen JV649 3-Input RF Modulator>,2.5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Adapters']], B000067RC4, Belkin Speaker and Headphone Splitter>,4.17405465503788>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Headphone Accessories', u'Adapters']], B00005T3GH, RCA AH216 Stereo Headphone Adapter Plug>,4.15797157126393>
+<<[[u'Electronics', u'Computers & Accessories', u'Laptop & Netbook Computer Accessories', u'Bags & Cases', u'Folio Cases']], B00005T3GV, Icon ICON100H-BLK Hacker Nylon Clamshell Notebook Case>,4.05714285714286>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Car Stereo Receivers']], B00005T3OP, Sony In-Dash Cassette Player w/ 45 Watts (XRCA300)>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Car Stereo Receivers']], B00005T3XX, Alpine In-Dash CD Player>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Car Stereo Receivers']], B00005U22Y, Kenwood In-Dash CD Player>,5>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television']], B00005T3KY, Terk Dual Satellite LNB (Discontinued by Manufacturer)>,4.23809523809524>
+<<[[u'Electronics', u'Television & Video', u'Satellite Television']], B00005T3UQ, Terk Indoor/Outdoor In-Line Amplifier (Discontinued by Manufacturer)>,2.62307927762473>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Remote Controls', u'Remote-Control Extenders']], B00005T3XR, Jensen DSC-IR100A Remote Control Extender (Discontinued by Manufacturer)>,2.53120953120953>
+<<[[u'Electronics', u'Computers & Accessories', u'Cables & Accessories', u'Cleaning & Repair', u'Compressed Air Dusters']], B00005T3Z7, Endust for Electronics 4 oz Anti-Static Cleaning and Dusting Pump Spray 097000>,3.4593537414966>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Photo Studio']], B00005TQK9, SONY MD-8HCL Mini Disc Head Cleaner (SONY MD8HCL) (Discontinued by Manufacturer)>,4.4>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Blank Video Media']], B00005TQKN, Sony 60 Minute MMV Digital Cassette w/chip>,4.33333333333333>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD+RW Discs']], B0000645V1, Memorex 4.7GB DVD+RW Media (5-Pack) (Discontinued by Manufacturer)>,4.03809523809524>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD+RW Discs']], B00005U8NM, HP C8008A 4.7GB DVD+RW Disc>,4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD+RW Discs']], B0000632HK, Sony DVD+RW 4X Rewriteable 4.7GB (2-Pack) (Discontinued by Manufacturer)>,4>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-R Discs']], B00006688V, Imation IMN41892 4.7 GB DVD-R Single Sided Write-Once (Single)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-R Discs']], B000067OG0, Apple DVD-R Media 4.7GB Recordable General Purpose Only (5-Pack) (Discontinued by Manufacturer)>,5>
+<<[[u'Electronics', u'Accessories & Supplies', u'Blank Media', u'DVD-R Discs']], B0000632HJ, Sony 5CDRW700HS 4X-10X High Speed 700 MB CD-RW in Jewel Case (5-Pack with Hang Tab) (Discontinued by Manufacturer)>,4>
+<<[[u'Electronics', u'Home Audio', u'Stereo Components', u'Equalizers']], B00005UPF6, Koss EQ50 3-Band Stereo Equalizer (Discontinued by Manufacturer)>,3.65560090702948>
+<<[[u'Electronics', u'Television & Video', u'DVD-VCR Combos']], B0000630MI, JVC HR-XVC1U DVD-VCR Combo>,3.78264487109799>
+<<[[u'Electronics', u'Television & Video', u'DVD-VCR Combos']], B00005YXZ5, Panasonic PV-D4762 DVD-VCR Combo>,3.72928571428571>
+<<[[u'Electronics', u'Television & Video', u'DVD-VCR Combos']], B000065BNZ, Zenith XBV243 Dual Deck DVD-VCR Combo>,3.68544512750455>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Subwoofers', u'Component Subwoofers']], B000063TJY, Infinity Basslink 200-Watt, Dual 10-Inch Powered Subwoofer System (Black)>,4.10593512177394>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Subwoofers', u'Component Subwoofers']], B00005Y6OR, Legacy LWF10X 10'' 400 Watt Legacy ''L'' Series Woofer (Set of 1)>,3.83220829315333>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Subwoofers', u'Component Subwoofers']], B000063TJW, Bazooka 10 in. Car Subwoofer (TVB141)>,3.75>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Subwoofers']], B00005Y6OS, Legacy LWF12X Legacy &quot;L&quot; Series 12&quot; 500 Watt 4 Ohm Car Audio Subwoofer>,3.97222222222222>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Subwoofers']], B000060NXK, Legacy LWF8X - &quot;L&quot; Series - 8&quot; 300 Watt 4 Ohm Car Audio Subwoofer>,3.89777777777778>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Amplifiers', u'Multichannel Amplifiers']], B000067AW0, MTX 5-Channel Amplifier (THUNDER4405)>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Amplifiers', u'Multichannel Amplifiers']], B000067AW8, KENWOOD 5-Channel Amplifier (KAC959)>,4>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Amplifiers', u'Multichannel Amplifiers']], B000060NXT, PB448X   Reno Series - 1000 Watt 4 Channel Car Audio Amplifier>,3.55555555555556>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Amplifiers', u'Dual-channel Amplifiers']], B000067BDJ, Kenwood 2-Channel Amplifier (KAC-729S)>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Car Electronics', u'Car Audio', u'Amplifiers', u'Dual-channel Amplifiers']], B000060NXR, PB440  Reno Series - 240 Watt 2 Channel Car Audio Amplifier>,3.66666666666667>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Power & Ground Cable']], B00006344S, Monster Cable S-B BAP200 200-Watt Power Amplifier Connection Kit (Blue and Silver)>,5>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Power & Ground Cable']], B000066E6Y, Motorola Signal Booster 484095-001-00 Bi-Directional RF Amplifier (Discontinued by Manufacturer)>,4.23989493363978>
+<<[[u'Electronics', u'Car & Vehicle Electronics', u'Vehicle Electronics Accessories', u'Vehicle Audio & Video Installation', u'Amplifier Installation', u'Power & Ground Cable']], B000064063, American Accessories PowerKit2 - 2 Channel Amplifier Hook Up Kit- 8g Power &amp; Ground (Discontinued by Manufacturer)>,3.65079365079365>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Lighting', u'Barn Doors']], B000063CK0, Crosley CR10 Chrome 1950's Select O Matic Diner Jukebox>,5>
+<<[[u'Electronics', u'Camera & Photo', u'Lighting & Studio', u'Light Meters & Accessories', u'Light Meters']], B000063VY6, MINOLTA Autometer 4F>,4.62962962962963>
+<<[[u'Electronics', u'Camera & Photo', u'Accessories', u'Professional Video Accessories', u'Tripods']], B000063W8Q, Sony VCT870RM Tripod w/Remote for Sony MiniDV, DVD, HDR-HC5 &amp; HC7 Camcorders>,4.24888888888889>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Video Cables']], B000063W8W, Sony VMCIL4415 1.5m i.LINK 4Pin to 4Pin Digital Video Cable for most Sony Camcorders>,4.14492753623188>
+<<[[u'Electronics', u'Portable Audio & Video', u'MP3 Players & Accessories']], B000065CE1, Sony MZ-N505 Net MD Walkman Player/Recorder (Gold)>,3.78735044411177>
+<<[[u'Electronics', u'Computers & Accessories', u'External Components', u'External TV Tuners']], B0000668GT, Kworld external USB TV Tuner>,2.61111111111111>
+<<[[u'Electronics', u'Accessories & Supplies', u'Audio & Video Accessories', u'Cables & Interconnects', u'Audio Cables']], B000067RBT, Belkin Y Audio Cable (12 foot)>,4.34950371500515>

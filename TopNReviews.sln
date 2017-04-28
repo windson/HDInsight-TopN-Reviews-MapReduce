@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNMapper", "TopNMapper\TopNMapper.csproj", "{30D1B1F8-7C43-4AFC-9362-2353816936C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNReducer", "TopNReducer\TopNReducer.csproj", "{FFA6F591-3EEF-40D7-B55B-ABE862708C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D1B1F8-7C43-4AFC-9362-2353816936C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D1B1F8-7C43-4AFC-9362-2353816936C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D1B1F8-7C43-4AFC-9362-2353816936C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D1B1F8-7C43-4AFC-9362-2353816936C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA6F591-3EEF-40D7-B55B-ABE862708C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA6F591-3EEF-40D7-B55B-ABE862708C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA6F591-3EEF-40D7-B55B-ABE862708C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA6F591-3EEF-40D7-B55B-ABE862708C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
