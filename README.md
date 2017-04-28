@@ -1,4 +1,4 @@
-# HDInsight TopN Products using MapReduce, C#
+# HDInsight Top-N Products using MapReduce, C#
 
 This repository deals with retrieving Top N Products by Ratings (mentioned in detail in the problem description below).
 The reviews are present in dataset reviews.csv and its meta is present in metadata.csv
